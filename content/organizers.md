@@ -5,9 +5,9 @@ nav: Organizers
 
 ## Organizing committee
 
-**General co-chair**: [Danny Dig](http://dig.cs.illinois.edu/), JetBrains Research & University of Colorado Boulder.
+**General co-chair**: [Danny Dig](http://dig.cs.illinois.edu/), JetBrains Research & University of Colorado Boulder
 
-**General co-chair**: [Timofey Brysin](https://jzuken.github.io/), JetBrains Research
+**General co-chair**: [Timofey Bryksin](https://jzuken.github.io/), JetBrains Research
 
 **Proceedings & Web chair, main contact persion**: [Yaroslav Golubev](https://areyde.com/), JetBrains Research. Please contact me at [yaroslav.golubev@jetbrains.com](mailto:yaroslav.golubev@jetbrains.com).
 
