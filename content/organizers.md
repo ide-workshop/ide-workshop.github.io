@@ -25,4 +25,5 @@ Subject to be extended.
 * [Simon Thompson](https://www.kent.ac.uk/computing/people/3164/thompson-simon), University of Kent
 * Raluca Sauciuc, AndroidStudio
 * [Matthew Gharrity](http://www.mattgharrity.com/), AndroidStudio
+* Jan Lahoda, NetBeans
 * [Peter Sommerlad](https://sommerlad.ch/), independent consultant

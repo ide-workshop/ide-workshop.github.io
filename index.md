@@ -56,7 +56,7 @@ Subject to be extended.
 * Jan Lahoda, NetBeans
 * [Peter Sommerlad](https://sommerlad.ch/), independent consultant
 
-[//]: # ({% include toc.html %})
+({% include toc.html %})
 
 ------
 
