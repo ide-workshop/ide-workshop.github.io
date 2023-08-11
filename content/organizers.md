@@ -1,6 +1,5 @@
 ---
 title: Organizers
-nav: Organizers
 ---
 
 ## Organizing committee

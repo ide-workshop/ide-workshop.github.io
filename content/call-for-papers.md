@@ -1,6 +1,5 @@
 ---
 title: Call for papers
-nav: Call for papers
 ---
 
 The absence of established best practices in deploying the results of Software Engineering (SE) researchers as IDE plugins leads to a decrease in the number of innovative ideas from Research integrated into IDEs (e.g., differential debugging, continuous profiling, automated program repair). Moreover, there is also no community or place where researchers and IDE developers could rub shoulders and share insights about the current state of the IDEs, their advantages and limitations as a deployment platform, as well as how to go the extra mile to move the results of the research into practice. To overcome this, we are launching this **IDE workshop** dedicated to helping SE research improve IDEs and helping IDEs improve the research. Target audience includes **both researchers and IDE developers**.
