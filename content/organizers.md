@@ -13,7 +13,7 @@ nav: Organizers
 
 **Industry chair**: Alexander Bezzubov, JetBrains
 
-## Confimed prorgam committee
+## Confirmed program committee
 
 Subject to be extended.
 
