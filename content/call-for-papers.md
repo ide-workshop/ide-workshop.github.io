@@ -1,10 +1,13 @@
 ---
-title: Call for papers
+title: Call for submissions
 ---
 
-The absence of established best practices in deploying the results of Software Engineering (SE) researchers as IDE plugins leads to a decrease in the number of innovative ideas from Research integrated into IDEs (e.g., differential debugging, continuous profiling, automated program repair). Moreover, there is also no community or place where researchers and IDE developers could rub shoulders and share insights about the current state of the IDEs, their advantages and limitations as a deployment platform, as well as how to go the extra mile to move the results of the research into practice. To overcome this, we are launching this **IDE workshop** dedicated to helping SE research improve IDEs and helping IDEs improve the research. Target audience includes **both researchers and IDE developers**.
+Despite the research community’s desire to improve the productivity of software developers, it is challenging for research to move beyond papers into the everyday practice of software development. Since IDEs are one of the most widely used tools in developers’ toolkit, they remain a crucial venue for research to reach software developers. To close the gap between research and adoption in practice, we are launching the first edition of the IDE workshop. At our workshop, we are equipping you, academic researchers,  with practical insights you need to successfully deploy your research through IDE plugins. We aim to inspire academic educators and provide resources you can use  to augment your teaching toolkit so you can effectively teach SE concepts through IDE features.
+We are connecting you with IDE builders that share insights and best practices, and show previews of upcoming IDE features. Join us to learn from evidence-based best practices that colleagues in academia follow when conducting research through IDE features. We invite you to share your perspective and identify entry-barriers and promising ideas from the research community so that IDE builders can make informed decisions on how IDEs could best serve the research, development, and education community. Join us and rub shoulders with a community of researchers and IDE builders that are committed to go the extra mile to move research into practice. Together we go farther.
 
-**From the research side**, we welcome any contributions that relate to IDEs, in the form of short research papers (up to 4 pages) or even shorter position papers (1–2 pages). The topics include, but are definitely not limited to:
+Our target audience includes **both academic researchers/educators and IDE developers from industry**.
+
+**On the research side**, we welcome any contributions that relate to IDEs, in the form of short research papers (up to 4 pages) or shorter position papers (1–2 pages). The topics include, but are not limited to:
 
 * The development of plugins, add-ons, and extensions for IDEs.
 * Integrating prototypes or machine learning models into the IDEs.
@@ -12,11 +15,29 @@ The absence of established best practices in deploying the results of Software E
 * Program analysis and static analysis inside the IDE.
 * UI/UX studies of working in the IDE, analyzing the way people use IDEs, their workflow, activities, attention, eye movement, etc.
 * Visualizations in the IDEs.
-* Using IDE as a way of collecting data: e.g., logs, datasets of interactions.
+* Using IDEs to analyze software development activities by collecting usage data: \textit{e.g.}, logs, datasets of interactions.
+* Insights and case studies of teaching various SE concepts (\textit{e.g.}, program comprehension, refactoring, testing, debugging, etc) using IDEs.
+* Anecdotal experience about why a certain tool or research approach {was not implemented on top of IDE infrastructure} but researchers chose alternatives (\textit{e.g.}, a CLI tool), what the blockers were, and how the IDEs can improve to become more convenient for prototyping.
 * And others!
 
-However, we also welcome any stories about why a certain tool or approach **was not implemented in the IDE** (e.g., a CLI tool), what the blockers were, and how the IDEs can improve to become more convenient for prototyping.
 
-**From the industry side**, we would like to hear from the developers of IDEs — what exactly they are looking for in research, how they try to incorporate it, what researchers can do to increase the chance of integration into the existing IDEs, etc. Similarly, we are open to the developers of other industrial solutions that operate outside IDEs (e.g., as standalone services) to understand what precludes tighter integration with the rest of the DevTooling. If you are interested in simplifying the deployment of research outcomes as IDE plugins, have an idea on improving the IDEs that needs research, or are simply curious about the latest advancements in software engineering research, come join us in meeting the users & fellow developers, and help create a sense of community of IDE providers that genuinely care!
+**From the industry side**, we invite the developers of IDEs:
 
-We want to foster an inclusive community that is welcoming not only established academic researchers but also industry participants (e.g., IDE developers) who might not be familiar with writing scientific papers. Thus, we expect that IDE builders will contribute short position papers (1–2 pages). Even more, they can be submitted in free form, if needed, and we ourselves can help with their formatting. We plan to invite our colleagues — developers and project managers of several IDEs (IntelliJ, Visual Studio, Eclipse, NetBeans, VS Code, etc), and foster a fruitful discussion that can result in practical collaborations. Please join us, share your perspective, and take part in growing the community that cares about practical impact and improving the lives of software developers!
+* What exactly they are looking for in contributions from the research community and how they try to incorporate them.
+* What researchers can do to increase the chance of integration into the existing IDEs.
+* Upcoming or undocumented features and infrastructure in the IDEs that researchers can use to accelerate their research development or could use for education.
+
+
+We are open to the developers of other industrial solutions that operate outside IDEs (_e.g._, as standalone services) to understand what precludes tighter integration with the rest of the Dev Tooling. If you are interested in simplifying the deployment of research outcomes as IDE plugins, have an idea on improving the IDEs that needs research, or are simply curious about the latest advancements in software engineering research, come join us in meeting users & fellow developers, and join a community of IDE providers that genuinely care!
+
+We want to foster an inclusive community that is welcoming not only established academic researchers but also industry participants (_e.g._, IDE developers) who might not be familiar with writing academic papers. Thus,  we invite IDE builders to contribute short position papers (1-2 pages). Even more, they can be submitted in free form, if needed, and we ourselves can help with their formatting.
+
+We invited developers and project managers of several IDEs (IntelliJ, Visual Studio, Eclipse, NetBeans, VS Code, AndroidStudio, etc.), and foster a fruitful discussion that can result in practical collaborations. Please join us, share your perspective, and take part in growing the community that cares about practical impact and improving the lives of software developers!
+
+**Important Dates**:
+
+* Workshop Papers Submission Deadline: 9 November 2023
+* Workshop Papers Acceptance Notification: 21 December 2023
+* Camera Ready deadline: 25 January 2024
+
+Please submit your papers at EasyChair: [https://easychair.org/conferences/?conf=ide24](https://easychair.org/conferences/?conf=ide24).
