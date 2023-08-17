@@ -1,9 +1,8 @@
----
-title: Call for submissions
----
+Despite the research community’s desire to improve the productivity of software developers, it is challenging for research to move beyond papers into the everyday practice of software development. Since IDEs are one of the most widely used tools in developers’ toolkit, they remain a crucial venue for research to reach software developers. To close the gap between research and adoption in practice, we are launching the first edition of the IDE workshop.
 
-Despite the research community’s desire to improve the productivity of software developers, it is challenging for research to move beyond papers into the everyday practice of software development. Since IDEs are one of the most widely used tools in developers’ toolkit, they remain a crucial venue for research to reach software developers. To close the gap between research and adoption in practice, we are launching the first edition of the IDE workshop. At our workshop, we are equipping you, academic researchers,  with practical insights you need to successfully deploy your research through IDE plugins. We aim to inspire academic educators and provide resources you can use  to augment your teaching toolkit so you can effectively teach SE concepts through IDE features.
-We are connecting you with IDE builders that share insights and best practices, and show previews of upcoming IDE features. Join us to learn from evidence-based best practices that colleagues in academia follow when conducting research through IDE features. We invite you to share your perspective and identify entry-barriers and promising ideas from the research community so that IDE builders can make informed decisions on how IDEs could best serve the research, development, and education community. Join us and rub shoulders with a community of researchers and IDE builders that are committed to go the extra mile to move research into practice. Together we go farther.
+At our workshop, we are equipping you, academic researchers,  with practical insights you need to successfully deploy your research through IDE plugins. We also aim to inspire academic educators and provide resources you can use  to augment your teaching toolkit so you can effectively teach SE concepts through IDE features. We are connecting you with IDE builders that share insights and best practices, and show previews of upcoming IDE features.
+
+Join us to learn from evidence-based best practices that colleagues in academia follow when conducting research through IDE features. We invite you to share your perspective and identify entry-barriers and promising ideas from the research community so that IDE builders can make informed decisions on how IDEs could best serve the research, development, and education community. Join us and rub shoulders with a community of researchers and IDE builders that are committed to go the extra mile to move research into practice. Together we go farther.
 
 Our target audience includes **both academic researchers/educators and IDE developers from industry**.
 
@@ -15,7 +14,7 @@ Our target audience includes **both academic researchers/educators and IDE devel
 * Program analysis and static analysis inside the IDE.
 * UI/UX studies of working in the IDE, analyzing the way people use IDEs, their workflow, activities, attention, eye movement, etc.
 * Visualizations in the IDEs.
-* Using IDEs to analyze software development activities by collecting usage data: \textit{e.g.}, logs, datasets of interactions.
+* Using IDEs to analyze software development activities by collecting usage data, \textit{e.g.}, logs, datasets of interactions.
 * Insights and case studies of teaching various SE concepts (\textit{e.g.}, program comprehension, refactoring, testing, debugging, etc) using IDEs.
 * Anecdotal experience about why a certain tool or research approach {was not implemented on top of IDE infrastructure} but researchers chose alternatives (\textit{e.g.}, a CLI tool), what the blockers were, and how the IDEs can improve to become more convenient for prototyping.
 * And others!
