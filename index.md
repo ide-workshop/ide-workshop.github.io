@@ -15,7 +15,7 @@ Since IDEs are one of the most widely used tools in developers’ toolkit, they 
 for research to reach software developers. To close the gap between research and adoption in practice, 
 we are launching the first edition of the **IDE workshop**. 
 
-At our workshop, we are equipping you, academic researchers, with practical insights you need to 
+At our workshop, we are equipping the academic researchers with practical insights you need to 
 successfully deploy your research through IDE plugins. We also aim to inspire academic educators and 
 provide resources you can use to augment your teaching toolkit, so you can effectively teach SE concepts 
 through IDE features. We are connecting you with IDE builders that share insights and best practices, 
@@ -76,35 +76,19 @@ cares about practical impact and improving the lives of software developers!
 
 ### Submission process
 
-The ICSE 2024 workshop proceedings will be prepared by IEEE CPS and published by ACM. 
-All workshop papers must follow the ACM formatting instructions available at 
-[the ACM website](https://www.acm.org/publications/proceedings-template). For information about the specific templates,
-please refer to the [general ICSE submission guideline](https://conf.researchr.org/track/icse-2024/icse-2024-research-track#submission-process).
+The information about the paper template and the relevant ACM/IEEE policies can be found on the 
+[main ICSE page with submission information](https://conf.researchr.org/track/icse-2024/icse-2024-research-track#submission-process).
+The IDE workshop employs the **single-blind** review process, _i.e._, you do not need to conceal your identity.
 The workshop accepts short research papers (4 pages + 1 page for references) and shorter position 
-papers (1-2 pages + 1 page for references). There is no limit on the number of submissions an author 
-may submit, but authors are advised to focus on quality rather than on quantity.
+papers (1-2 pages + 1 page for references). 
 
-By submitting your article to an ACM Publication, you are hereby acknowledging that you and your 
-co-authors are subject to all ACM Publications Policies, including ACM’s new 
-[Publications Policy on Research Involving Human Participants and Subjects](https://www.acm.org/publications/policies/research-involving-human-participants-and-subjects). 
-Alleged violations of this policy or any ACM Publications Policy will be investigated by ACM and may 
-result in a full retraction of your paper, in addition to other potential penalties, as per 
-ACM Publications Policy.
-
-Please ensure that you and your co-authors obtain an ORCID ID, so you can complete the publishing 
-process for your accepted paper. ACM has been involved in ORCID from the start and we have recently 
-made a commitment to collect ORCID IDs from all of our published authors. The collection process has 
-started and will roll out as a requirement throughout 2022. We are committed to improve author 
-discoverability, ensure proper attribution and contribute to ongoing community efforts around name 
-normalization; your ORCID ID will help in these efforts.
-
-The official publication date of the workshop proceedings is the date the proceedings are made 
-available in the ACM Library. This date may be up to two weeks prior to the first day of ICSE 2024. 
-The official publication date affects the deadline for any patent filings related to published work.
-
-Papers must be submitted electronically via by the defined deadline (see below) on **EasyChair**: 
+Papers must be submitted electronically via by the defined deadline (see important dates below) on **EasyChair**: 
 [https://easychair.org/conferences/?conf=ide24](https://easychair.org/conferences/?conf=ide24). If you have any questions, do not hesitate to contact
 the proceedings chair for any inquiries (see contacts below).
+
+The official publication date of the workshop proceedings is the date the proceedings are made
+available in the ACM Library. This date may be up to two weeks prior to the first day of ICSE 2024.
+The official publication date affects the deadline for any patent filings related to published work.
 
 ### Important dates
 
