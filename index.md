@@ -3,8 +3,6 @@ title: ICSE '24 workshop on IDEs
 layout: page
 ---
 
-# Welcome!
-
 {% include figure.html img="title.jpg" alt="title card" width="100%" %}
 
 ## Call for submissions
