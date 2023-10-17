@@ -90,8 +90,8 @@ The official publication date affects the deadline for any patent filings relate
 
 ### Important dates
 
-* Papers submission deadline: November 9th, 2023
-* Papers acceptance notification: December 21st, 2023
+* Papers submission deadline: ~~November 9th, 2023~~ **December 7th, 2023**
+* Papers acceptance notification: ~~December 21st, 2023~~ January 11th, 2024
 * Camera ready deadline: January 25th, 2024
 * Workshop: TBD
 
