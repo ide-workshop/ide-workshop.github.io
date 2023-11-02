@@ -5,6 +5,16 @@ layout: page
 
 {% include figure.html img="title.jpg" alt="title card" width="100%" %}
 
+## News
+
+**October 17th**: deadlines updated (the submission deadline is now **December 7th, 2023**)
+
+**September 17th**: our [EasyChair](https://easychair.org/conferences/?conf=ide24) is open to your submissions 
+
+**September 17th**: the website is up 
+
+**September 17th**: the IDE workshop is accepted to ICSE'24
+
 ## Call for submissions
 
 Despite the research community’s desire to improve the productivity of software developers, 
@@ -123,6 +133,10 @@ Please contact me at [yaroslav.golubev@jetbrains.com](mailto:yaroslav.golubev@je
 * [Matthew Gharrity](http://www.mattgharrity.com/), AndroidStudio
 * Jan Lahoda, NetBeans
 * [Peter Sommerlad](https://sommerlad.ch/), independent consultant
+
+## Program
+
+The program will be shared after the papers are reviewed. We plan to have a keynote, paper presentations, round table discussions, and more. Stay tuned!
 
 [//]: # (&#40;{% include toc.html %}&#41;)
 
