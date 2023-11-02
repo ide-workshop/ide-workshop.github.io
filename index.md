@@ -7,13 +7,13 @@ layout: page
 
 ## News
 
-**October 17th**: deadlines updated (the submission deadline is now **December 7th, 2023**)
+* **October 17th**: deadlines updated (the submission deadline is now **December 7th, 2023**)
 
-**September 17th**: our [EasyChair](https://easychair.org/conferences/?conf=ide24) is open to your submissions 
+* **September 17th**: our [EasyChair](https://easychair.org/conferences/?conf=ide24) is open to your submissions 
 
-**September 17th**: the website is up 
+* **September 17th**: the website is up 
 
-**September 17th**: the IDE workshop is accepted to ICSE'24
+* **September 17th**: the IDE workshop is accepted to ICSE'24
 
 ## Call for submissions
 
