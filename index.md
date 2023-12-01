@@ -91,7 +91,8 @@ The workshop accepts short research papers (4 pages + 1 page for references) and
 papers (1-2 pages + 1 page for references). 
 
 Papers must be submitted electronically via by the defined deadline (see important dates below) on **EasyChair**: 
-[https://easychair.org/conferences/?conf=ide24](https://easychair.org/conferences/?conf=ide24). If you have any questions, do not hesitate to contact
+[https://easychair.org/conferences/?conf=ide24](https://easychair.org/conferences/?conf=ide24). At least one author of each accepted paper should register for the
+workshop and present the paper in the workshop. If you have any questions, do not hesitate to contact
 the proceedings chair for any inquiries (see contacts below).
 
 The official publication date of the workshop proceedings is the date the proceedings are made
