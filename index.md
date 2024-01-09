@@ -141,7 +141,7 @@ Please contact me at [yaroslav.golubev@jetbrains.com](mailto:yaroslav.golubev@je
 
 ## Program
 
-The program will be shared after the papers are reviewed. We plan to have a keynote, paper presentations, round table discussions, and more. Stay tuned!
+The program will be shared after the papers are reviewed. We plan to have a keynote, paper presentations, round table discussions, posters, and more. Stay tuned!
 
 [//]: # (&#40;{% include toc.html %}&#41;)
 
