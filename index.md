@@ -7,6 +7,10 @@ layout: page
 
 ## News
 
+* **December 7th**: the deadline for submissions have passed, and we started the review process
+
+* **November 2nd**: the date for the workshop has been set for April 20th (Saturday)
+
 * **October 17th**: deadlines updated (the submission deadline is now **December 7th, 2023**)
 
 * **September 17th**: our [EasyChair](https://easychair.org/conferences/?conf=ide24) is open to your submissions 
@@ -104,7 +108,7 @@ The official publication date affects the deadline for any patent filings relate
 * Papers submission deadline: ~~November 9th, 2023~~ **December 7th, 2023**
 * Papers acceptance notification: ~~December 21st, 2023~~ January 11th, 2024
 * Camera ready deadline: January 25th, 2024
-* Workshop: TBD
+* Workshop: April 20th, 2024 (Saturday)
 
 ## Organizing committee
 
