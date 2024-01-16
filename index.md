@@ -7,6 +7,8 @@ layout: page
 
 ## News
 
+* **January 11th**: the reviews are done, and we sent out the notifications to the authors. Congratulations!
+
 * **December 7th**: the deadline for submissions have passed, and we started the review process
 
 * **November 2nd**: the date for the workshop has been set for April 20th (Saturday)
