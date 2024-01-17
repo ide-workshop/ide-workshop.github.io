@@ -128,18 +128,18 @@ Please contact me at [yaroslav.golubev@jetbrains.com](mailto:yaroslav.golubev@je
 * [Sarah Nadi](https://sarahnadi.org/), University of Alberta
 * [Nikolaos Tsantalis](https://users.encs.concordia.ca/~nikolaos/), Concordia University
 * [Iftekhar Ahmed](https://www.ics.uci.edu/~iftekha/), University of California, Irvine
-* [Malinda Malwala](https://maldil.github.io/), University of Colorado, Boulder
+* [Malinda Malwala](https://maldil.github.io/), University of Colorado Boulder
 * Egor Bogomolov, JetBrains Research
 * Ademar Aguiar, University of Porto
 * [Sebastian Proksch](https://proks.ch/), Delft University of Technology 
 * Artem Trofimov, JetBrains
-* Svetlana Zemlyanskaya, JetBrains
+* Svetlana Zemlyanskaya, JetBrains GmbH
 * [Simon Thompson](https://www.kent.ac.uk/computing/people/3164/thompson-simon), University of Kent
-* Noopur Gupta, IBM
-* Raluca Sauciuc, AndroidStudio
-* [Matthew Gharrity](http://www.mattgharrity.com/), AndroidStudio
-* Jan Lahoda, NetBeans
-* [Peter Sommerlad](https://sommerlad.ch/), independent consultant
+* Noopur Gupta, IBM, Eclipse
+* Raluca Sauciuc, Google
+* [Matthew Gharrity](http://www.mattgharrity.com/), Google
+* Jan Lahoda, Oracle Czech s.r.o.
+* [Peter Sommerlad](https://sommerlad.ch/), HSR Rapperswil
 
 ## Program
 
