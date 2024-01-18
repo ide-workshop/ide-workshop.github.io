@@ -139,7 +139,7 @@ Please contact me at [yaroslav.golubev@jetbrains.com](mailto:yaroslav.golubev@je
 * Raluca Sauciuc, Google
 * [Matthew Gharrity](http://www.mattgharrity.com/), Google
 * Jan Lahoda, Oracle Czech s.r.o.
-* [Peter Sommerlad](https://sommerlad.ch/), HSR Rapperswil
+* [Peter Sommerlad](https://sommerlad.ch/), Better Software
 
 ## Program
 
