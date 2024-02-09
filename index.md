@@ -7,7 +7,7 @@ layout: page
 
 ## News
 
-* **January 25th**: **25 papers** were accepted to the workshop! Congratulations to the authors!
+* **January 25th**: overall, **25 papers** were accepted to the workshop! Congratulations to the authors!
 
 * **January 11th**: the reviews are done, and we sent out the notifications to the authors. Congratulations!
 
