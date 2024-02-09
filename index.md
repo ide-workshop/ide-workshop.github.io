@@ -77,7 +77,7 @@ layout: page
 
 ## Program
 
-The program will be shared after the papers are reviewed. We plan to have a keynote, paper presentations, round table discussions, posters, and more. Stay tuned!
+The program will be shared closer to the workshop. We plan to have a keynote, paper presentations, round table discussions, posters, and more. Stay tuned!
 
 ## Call for submissions
 
