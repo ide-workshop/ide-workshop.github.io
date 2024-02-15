@@ -7,6 +7,10 @@ layout: page
 
 ## News
 
+* **February 15th**: We are excited to welcome our first keynote speaker — [Boris Bokowski](https://www.linkedin.com/in/borisbokowski/), 
+Director of Engineering at Google, who oversees the internal development tools for Google's developers and in particular the AI tools for their 
+IDEs
+
 * **January 25th**: overall, **25 papers** were accepted to the workshop! Congratulations to the authors!
 
 * **January 11th**: the reviews are done, and we sent out the notifications to the authors. Congratulations!
@@ -77,7 +81,11 @@ layout: page
 
 ## Program
 
-The program will be shared closer to the workshop. We plan to have a keynote, paper presentations, round table discussions, posters, and more. Stay tuned!
+The program will be shared closer to the workshop. We plan to have a keynote, round table discussions, posters, and more. Stay tuned!
+
+**Keynote**: [Boris Bokowski](https://www.linkedin.com/in/borisbokowski/),
+Director of Engineering at Google, who oversees the internal development tools for Google's developers and in particular the AI tools for their
+IDEs
 
 ## Call for submissions
 
