@@ -7,9 +7,11 @@ layout: page
 
 ## News
 
-* **February 15th**: We are excited to welcome our first keynote speaker — [Boris Bokowski](https://www.linkedin.com/in/borisbokowski/), 
-Director of Engineering at Google, who oversees the internal development tools for Google's developers and in particular the AI tools for their 
-IDEs
+* **March 4th**: the preliminary version of the program is up, and we are collecting opinions from participants to specify it.
+
+* **February 15th**: We are excited to welcome our first keynote speaker — [Boris Bokowski](https://www.linkedin.com/in/borisbokowski/),
+  Director of Engineering at Google, who oversees the internal development tools for Google's developers and in particular the AI tools for their
+  IDEs
 
 * **January 25th**: overall, **25 papers** were accepted to the workshop! Congratulations to the authors!
 
@@ -21,71 +23,62 @@ IDEs
 
 * **October 17th**: deadlines updated (the submission deadline is now **December 7th, 2023**)
 
-* **September 17th**: our [EasyChair](https://easychair.org/conferences/?conf=ide24) is open to your submissions 
+* **September 17th**: our [EasyChair](https://easychair.org/conferences/?conf=ide24) is open to your submissions
 
-* **September 17th**: the website is up 
+* **September 17th**: the website is up
 
 * **September 17th**: the IDE workshop is accepted to ICSE'24
 
-## Accepted papers
-
-* **The Visual Debugger: Past, Present, and Future** --- Tim Kräuter, Patrick Stünkel, Adrian Rutle, Yngve Lamo _(Western Norway University of Applied Sciences)_.
-
-* **Challenges of Processing Data Clumps within Plugin Architectures of Integrated Development Environment** --- Nils Baumgartner, Elke Pulvermueller _(Institute of Computer Science, University of Osnabrueck)_.
-
-* **Lessons from a Pioneering Software Engineering Environment: Design Principles of Software through Pictures** --- Anthony Wasserman _(Software Methods and Tools)_.
-
-* **Context Composing for Full Line Code Completion** --- Anton Semenkin, Yaroslav Sokolov, Evgeniia Vu _(JetBrains)_.
-
-* **Help Me to Understand this Commit!** - A Vision for Contextualized Code Reviews --- Michael Unterkalmsteiner _(Blekinge Institute of Technology)_, Deepika Badampudi _(Blekinge Institute of Technology)_, Ricardo Britto _(Ericsson / Blekinge Institute of Technology)_, Nauman Bin Ali _(Blekinge Institute of Technology)_.
-
-* **On the Integration of Spectrum-Based Fault Localization Tools into IDEs** --- Attila Szatmári _(Szegedi Tudományegyetem)_, Qusay Idrees Sarhan _(Department of Computer Science, University of Duhok)_, Péter Attila Soha, Gergő Balogh, Árpád Beszédes _(Department of Software Engineering, University of Szeged)_.
-
-* **Jasay: Towards Voice Commands in Projectional Editors** --- André Santos, Alexandre Cancelinha, Fernando Batista _(ISCTE-IUL)_.
-
-* **Understanding and Evaluating Developer Behaviour in Programming Tasks** --- Martin Schröer, Rainer Koschke _(University of Bremen, Germany)_.
-
-* **Tool-augmented LLMs as a Universal Interface for IDEs** --- Yaroslav Zharov, Yury Khudyakov, Evgeniia Fedotova, Evgeny Grigorenko, Egor Bogomolov _(JetBrains Research)_.
-
-* **A New Generation of Intelligent Development Environment** --- Mark Marron _(University of Kentucky)_.
-
-* **"Don't Step on My Toes": Resolving Editing Conflicts in Real-Time Collaboration in Computational Notebooks** --- April Wang _(ETH Zürich)_, Zihan Wu, Christopher Brooks, Steve Oney _(University of Michigan)_.
-
-* **Bridging Education and Development: IDEs as Interactive Learning Platforms** --- Anastasiia Birillo, Mariia Tigina, Zarina Kurbatova, Anna Potriasaeva, Ilya Vlasov _(JetBrains Research)_, Valerii Ovchinnikov _(Constructor University)_, Igor Gerasimov _(JetBrains)_.
-
-* **JetTrain: IDE-Native Machine Learning Experiments** --- Artem Trofimov, Mikhail Kostyukov, Sergei Ugdyzhekov, Natalia Ponomareva, Igor Naumov, Maksim Melekhovets _(JetBrains)_.
-
-* **Embedding-based search in JetBrains IDEs** --- Evgeny Abramov, Nikolai Palchikov _(JetBrains)_.
-
-* **IDEs in the age of LLMs and XR** --- Jesus M. Gonzalez-Barahona _(Universidad Rey Juan Carlos)_.
-
-* **HyLiMo: A Hybrid Live-Synchronized Modular Diagramming Editor as IDE Extension for Technical and Scientific Publications** --- Niklas Krieger, Sandro Speth _(Institute of Software Engineering, University of Stuttgart)_, Steffen Becker _(University of Stuttgart)_.
-
-* **Gamified GUI testing with Selenium in the IntelliJ IDE: A Prototype Plugin** --- Giacomo Garaccione, Tommaso Fulcini, Paolo Stefanut Bodnarescul, Riccardo Coppola, Luca Ardito _(Politecnico di Torino)_.
-
-* **Trigram-Based Persistent IDE indices with Quick Startup** --- Zakhar Iakovlev, Nikita Golikov, Alexey Chulkov _(ITMO University)_, Vyacheslav Lukianov, Nikita Zinoviev, Dmitry Ivanov _(Huawei RRI)_, Vitaly Aksenov _(City, University of London)_.
-
-* **I3DE: An IDE for Inspecting Inconsistencies in PL/SQL Code** --- Jiangshan Liu, Shuang Liu, Junjie Chen _(College of Intelligence and Computing, Tianjin University)_.
-
-* **An IDE Plugin for Gamified Continuous Integration** --- Philipp Straubinger, Gordon Fraser _(University of Passau)_.
-
-* **In-IDE Human-AI Experience in the Era of Large Language Models; A Literature Review** --- Agnia Sergeyuk, Sergey Titov _(JetBrains Research)_, Maliheh Izadi _(Delft University of Technology)_.
-
-* **Detecting Security-Relevant Methods using Multi-label Machine Learning** --- Oshando Johnson _(Fraunhofer IEM)_, Goran Piskachev _(Amazon Web Services)_, Ranjith Krishnamurthy _(Fraunhofer IEM)_, Eric Bodden _(Paderborn University and Fraunhofer IEM)_.
-
-* **Hidden Gems in the Rough: Computational Notebooks as an Uncharted Oasis for IDEs** --- Sergey Titov, Konstantin Grotov _(JetBrains Research)_, Ashwin Prasad S. Venkatesh _(Paderborn University)_.
-
-* **IntelliGame in Action: An Experience Report on Gamifying JavaScript Unit Tests** --- Philipp Straubinger _(University of Passau)_, Tommaso Fulcini _(Politecnico di Torino)_, Gordon Fraser _(University of Passau)_, Marco Torchiano _(Politecnico di Torino)_.
-
-* **Envisioning the Next-Generation AI Coding Assistants: Insights & Proposals** --- Khanh Nghiem, Anh Minh Nguyen _(FPT Software AI Center)_, Nghi Bui _(Fulbright Univerisity)_.
-
 ## Program
 
-The program will be shared closer to the workshop. We plan to have a keynote, round table discussions, posters, and more. Stay tuned!
+Here is the preliminary program of the workshop:
 
-**Keynote**: [Boris Bokowski](https://www.linkedin.com/in/borisbokowski/),
-Director of Engineering at Google, who oversees the internal development tools for Google's developers and in particular the AI tools for their
-IDEs
+| **Time**    | **Activity**                                                                                                                                                                                                                          |
+|-------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 09:00–09:10 | **Opening word** from the organizers.                                                                                                                                                                                                 |
+| 09:10–09:40 | **Keynote #1** by [Boris Bokowski](https://www.linkedin.com/in/borisbokowski/), Director of Engineering at Google, who oversees the internal development tools for Google's developers and in particular the AI tools for their IDEs. |
+| 09:40–10:10 | **Keynote #2** TBA.                                                                                                                                                                                                                   |
+| 10:10–10:30 | Joint keynote **Q&A**.                                                                                                                                                                                                                |
+| 10:30–11:00 | _Coffee break_.                                                                                                                                                                                                                       |
+| 11:00–11:30 | **Poster session**. Round 1.                                                                                                                                                                                                          |
+| 11:30–12:00 | **Poster session**. Round 2.                                                                                                                                                                                                          |
+| 12:00–12:30 | **Poster session**. Round 3.                                                                                                                                                                                                          |
+| 12:30–14:00 | _Lunch_.                                                                                                                                                                                                                              |
+| 14:00–14:30 | **Tutorial**. TBA.                                                                                                                                                                                                                    |
+| 14:30–15:00 | **Round table discussion #1**. TBA based on the survey on the topics of interest.                                                                                                                                                     |
+| 15:00–15:30 | **Round table discussion #2**. TBA based on the survey on the topics of interest.                                                                                                                                                     |
+| 15:30–16:00 | _Coffee break_.                                                                                                                                                                                                                       |
+| 16:00–17:30 | **Free format** group talks.                                                                                                                                                                                                          |
+
+## Accepted papers
+
+| **Title of the paper**                                                                                                       | **Authors**                                                                                                                                                                                                                                |
+|------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **The Visual Debugger: Past, Present, and Future**                                                                           | Tim Kräuter, Patrick Stünkel, Adrian Rutle, Yngve Lamo _(Western Norway University of Applied Sciences)_                                                                                                                                   |
+| **Challenges of Processing Data Clumps within Plugin Architectures of Integrated Development Environment**                   | Nils Baumgartner, Elke Pulvermueller _(Institute of Computer Science, University of Osnabrueck)_                                                                                                                                           |
+| **Lessons from a Pioneering Software Engineering Environment: Design Principles of Software through Pictures**               | Anthony Wasserman _(Software Methods and Tools)_                                                                                                                                                                                           |
+| **Context Composing for Full Line Code Completion**                                                                          | Anton Semenkin, Yaroslav Sokolov, Evgeniia Vu _(JetBrains)_                                                                                                                                                                                |
+| **Help Me to Understand this Commit! - A Vision for Contextualized Code Reviews**                                            | Michael Unterkalmsteiner _(Blekinge Institute of Technology)_, Deepika Badampudi _(Blekinge Institute of Technology)_, Ricardo Britto _(Ericsson / Blekinge Institute of Technology)_, Nauman Bin Ali _(Blekinge Institute of Technology)_ |
+| **On the Integration of Spectrum-Based Fault Localization Tools into IDEs**                                                  | Attila Szatmári _(Szegedi Tudományegyetem)_, Qusay Idrees Sarhan _(Department of Computer Science, University of Duhok)_, Péter Attila Soha, Gergő Balogh, Árpád Beszédes _(Department of Software Engineering, University of Szeged)_     |
+| **Jasay: Towards Voice Commands in Projectional Editors**                                                                    | André Santos, Alexandre Cancelinha, Fernando Batista _(ISCTE-IUL)_                                                                                                                                                                         |
+| **Understanding and Evaluating Developer Behaviour in Programming Tasks**                                                    | Martin Schröer, Rainer Koschke _(University of Bremen, Germany)_                                                                                                                                                                           |
+| **Tool-augmented LLMs as a Universal Interface for IDEs**                                                                    | Yaroslav Zharov, Yury Khudyakov, Evgeniia Fedotova, Evgeny Grigorenko, Egor Bogomolov _(JetBrains Research)_                                                                                                                               |
+| **A New Generation of Intelligent Development Environment**                                                                  | Mark Marron _(University of Kentucky)_                                                                                                                                                                                                     |
+| **"Don't Step on My Toes": Resolving Editing Conflicts in Real-Time Collaboration in Computational Notebooks**               | April Wang _(ETH Zürich)_, Zihan Wu, Christopher Brooks, Steve Oney _(University of Michigan)_                                                                                                                                             |
+| **Bridging Education and Development: IDEs as Interactive Learning Platforms**                                               | Anastasiia Birillo, Mariia Tigina, Zarina Kurbatova, Anna Potriasaeva, Ilya Vlasov _(JetBrains Research)_, Valerii Ovchinnikov _(Constructor University)_, Igor Gerasimov _(JetBrains)_                                                    |
+| **JetTrain: IDE-Native Machine Learning Experiments**                                                                        | Artem Trofimov, Mikhail Kostyukov, Sergei Ugdyzhekov, Natalia Ponomareva, Igor Naumov, Maksim Melekhovets _(JetBrains)_                                                                                                                    |
+| **Embedding-based search in JetBrains IDEs**                                                                                 | Evgeny Abramov, Nikolai Palchikov _(JetBrains)_                                                                                                                                                                                            |
+| **IDEs in the age of LLMs and XR**                                                                                           | Jesus M. Gonzalez-Barahona _(Universidad Rey Juan Carlos)_                                                                                                                                                                                 |
+| **HyLiMo: A Hybrid Live-Synchronized Modular Diagramming Editor as IDE Extension for Technical and Scientific Publications** | Niklas Krieger, Sandro Speth _(Institute of Software Engineering, University of Stuttgart)_, Steffen Becker _(University of Stuttgart)_                                                                                                    |
+| **Gamified GUI testing with Selenium in the IntelliJ IDE: A Prototype Plugin**                                               | Giacomo Garaccione, Tommaso Fulcini, Paolo Stefanut Bodnarescul, Riccardo Coppola, Luca Ardito _(Politecnico di Torino)_                                                                                                                   |
+| **Trigram-Based Persistent IDE indices with Quick Startup**                                                                  | Zakhar Iakovlev, Nikita Golikov, Alexey Chulkov _(ITMO University)_, Vyacheslav Lukianov, Nikita Zinoviev, Dmitry Ivanov _(Huawei RRI)_, Vitaly Aksenov _(City, University of London)_                                                     |
+| **I3DE: An IDE for Inspecting Inconsistencies in PL/SQL Code**                                                               | Jiangshan Liu, Shuang Liu, Junjie Chen _(College of Intelligence and Computing, Tianjin University)_                                                                                                                                       |
+| **An IDE Plugin for Gamified Continuous Integration**                                                                        | Philipp Straubinger, Gordon Fraser _(University of Passau)_                                                                                                                                                                                |
+| **In-IDE Human-AI Experience in the Era of Large Language Models; A Literature Review**                                      | Agnia Sergeyuk, Sergey Titov _(JetBrains Research)_, Maliheh Izadi _(Delft University of Technology)_                                                                                                                                      |
+| **Detecting Security-Relevant Methods using Multi-label Machine Learning**                                                   | Oshando Johnson _(Fraunhofer IEM)_, Goran Piskachev _(Amazon Web Services)_, Ranjith Krishnamurthy _(Fraunhofer IEM)_, Eric Bodden _(Paderborn University and Fraunhofer IEM)_                                                             |
+| **Hidden Gems in the Rough: Computational Notebooks as an Uncharted Oasis for IDEs**                                         | Sergey Titov, Konstantin Grotov _(JetBrains Research)_, Ashwin Prasad S. Venkatesh _(Paderborn University)_                                                                                                                                |
+| **IntelliGame in Action: An Experience Report on Gamifying JavaScript Unit Tests**                                           | Philipp Straubinger _(University of Passau)_, Tommaso Fulcini _(Politecnico di Torino)_, Gordon Fraser _(University of Passau)_, Marco Torchiano _(Politecnico di Torino)_                                                                 |
+| **Envisioning the Next-Generation AI Coding Assistants: Insights & Proposals**                                               | Khanh Nghiem, Anh Minh Nguyen _(FPT Software AI Center)_, Nghi Bui _(Fulbright Univerisity)_                                                                                                                                               |
 
 ## Call for submissions
 
