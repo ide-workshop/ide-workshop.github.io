@@ -60,7 +60,7 @@ Here is the preliminary program of the workshop:
 * **HyLiMo: A Hybrid Live-Synchronized Modular Diagramming Editor as IDE Extension for Technical and Scientific Publications** --- Niklas Krieger, Sandro Speth _(Institute of Software Engineering, University of Stuttgart)_, Steffen Becker _(University of Stuttgart)_.
 * **Gamified GUI testing with Selenium in the IntelliJ IDE: A Prototype Plugin** --- Giacomo Garaccione, Tommaso Fulcini, Paolo Stefanut Bodnarescul, Riccardo Coppola, Luca Ardito _(Politecnico di Torino)_.
 * **Trigram-Based Persistent IDE indices with Quick Startup** --- Zakhar Iakovlev, Nikita Golikov, Alexey Chulkov _(ITMO University)_, Vyacheslav Lukianov, Nikita Zinoviev, Dmitry Ivanov _(Huawei RRI)_, Vitaly Aksenov _(City, University of London)_.
-* **I3DE: An IDE for Inspecting Inconsistencies in PL/SQL Code** --- Jiangshan Liu, Shuang Liu, Junjie Chen _(College of Intelligence and Computing, Tianjin University)_.
+* [**I3DE: An IDE for Inspecting Inconsistencies in PL/SQL Code**](https://arxiv.org/abs/2403.03433) --- Jiangshan Liu, Shuang Liu, Junjie Chen _(College of Intelligence and Computing, Tianjin University)_.
 * **An IDE Plugin for Gamified Continuous Integration** --- Philipp Straubinger, Gordon Fraser _(University of Passau)_.
 * [**In-IDE Human-AI Experience in the Era of Large Language Models; A Literature Review**](https://arxiv.org/abs/2401.10739) --- Agnia Sergeyuk, Sergey Titov _(JetBrains Research)_, Maliheh Izadi _(Delft University of Technology)_.
 * **Detecting Security-Relevant Methods using Multi-label Machine Learning** --- Oshando Johnson _(Fraunhofer IEM)_, Goran Piskachev _(Amazon Web Services)_, Ranjith Krishnamurthy _(Fraunhofer IEM)_, Eric Bodden _(Paderborn University and Fraunhofer IEM)_.
