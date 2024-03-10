@@ -25,19 +25,18 @@ layout: page
 Here is the preliminary program of the workshop:
 
 * 09:00–09:10 — **Opening word** from the organizers.
-* 09:10–09:40 — **Keynote #1** by [Boris Bokowski](https://www.linkedin.com/in/borisbokowski/), Director of Engineering at Google, who oversees the internal development tools for Google's developers and in particular the AI tools for their IDEs. 
-* 09:40–10:10 — **Keynote #2** TBA.
-* 10:10–10:30 — Joint keynote **Q&A**.
+* 09:10–09:50 — **Keynote #1**: _"IDEs at Google — Past, Present, Future"_ by [Boris Bokowski](https://www.linkedin.com/in/borisbokowski/), Director of Engineering at Google. 
+* 09:50–10:30 — **Keynote #2**: _"IDE Integration: A Case Study on Boosting Concurrency Testing"_ by [Nikita Koval](https://nikitakoval.org/), Researcher at JetBrains.
 * 10:30–11:00 — _Coffee break_.
 * 11:00–11:30 — **Poster session**. Round 1.
 * 11:30–12:00 — **Poster session**. Round 2.
 * 12:00–12:30 — **Poster session**. Round 3.
 * 12:30–14:00 — _Lunch_.
 * 14:00–14:30 — **Tutorial**. TBA.
-* 14:30–15:00 — **Round table discussion #1**. TBA based on the survey on the topics of interest.
-* 15:00–15:30 — **Round table discussion #2**. TBA based on the survey on the topics of interest.
+* 14:30–15:00 — **Round table discussion #1**. Tentatively: _"Packaging Research in Plugins: Lessons Learned & Open Challenges"_, might change based on the survey on the topics of interest.
+* 15:00–15:30 — **Round table discussion #2**. Tentatively: _"What Researchers Need from the IDE and What the IDE Needs from Researchers"_, might change based on the survey on the topics of interest.
 * 15:30–16:00 — _Coffee break_.
-* 16:00–17:20 — **Free format** group talks.
+* 16:00–17:20 — **Free format** group talks, based on the survey on the topics of interest.
 * 17:20–17:30 — **Closing word** from the organizers.
 
 ## Accepted papers
