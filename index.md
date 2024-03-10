@@ -7,10 +7,13 @@ layout: page
 
 ## News
 
+* **March 10th**: the fuller program is up at [ICSE's website](https://conf.researchr.org/program/icse-2024/program-icse-2024/?track=IDE).
+* **March 6th**: we are excited to welcome our second keynote speaker — [Nikita Koval](https://nikitakoval.org/),
+  a researcher in the Kotlin team at JetBrains and lead a Concurrent Computing lab at JetBrains Research.
 * **March 4th**: the preliminary version of the program is up, and we are collecting opinions from participants to specify it.
-* **February 15th**: We are excited to welcome our first keynote speaker — [Boris Bokowski](https://www.linkedin.com/in/borisbokowski/),
+* **February 15th**: we are excited to welcome our first keynote speaker — [Boris Bokowski](https://www.linkedin.com/in/borisbokowski/),
   Director of Engineering at Google, who oversees the internal development tools for Google's developers and in particular the AI tools for their
-  IDEs
+  IDEs.
 * **January 25th**: overall, **25 papers** were accepted to the workshop! Congratulations to the authors!
 * **January 11th**: the reviews are done, and we sent out the notifications to the authors. Congratulations!
 * **December 7th**: the deadline for submissions have passed, and we started the review process. We received a total of **27 submissions**!
@@ -22,9 +25,9 @@ layout: page
 
 ## Program
 
-Here is the preliminary program of the workshop:
+A more detailed program with poster splits by rounds can be found at [ICSE website](https://conf.researchr.org/program/icse-2024/program-icse-2024/?track=IDE).
 
-* 09:00–09:10 — **Opening word** from the organizers.
+* 09:00–09:10 — **Welcoming message** from the organizers.
 * 09:10–09:50 — **Keynote #1**: _"IDEs at Google — Past, Present, Future"_ by [Boris Bokowski](https://www.linkedin.com/in/borisbokowski/), Director of Engineering at Google. 
 * 09:50–10:30 — **Keynote #2**: _"IDE Integration: A Case Study on Boosting Concurrency Testing"_ by [Nikita Koval](https://nikitakoval.org/), Researcher at JetBrains.
 * 10:30–11:00 — _Coffee break_.
@@ -32,11 +35,11 @@ Here is the preliminary program of the workshop:
 * 11:30–12:00 — **Poster session**. Round 2.
 * 12:00–12:30 — **Poster session**. Round 3.
 * 12:30–14:00 — _Lunch_.
-* 14:00–14:30 — **Tutorial**. TBA.
+* 14:00–14:30 — **Tutorial**. Tentatively: _Developing IDE Plugins_.
 * 14:30–15:00 — **Round table discussion #1**. Tentatively: _"Packaging Research in Plugins: Lessons Learned & Open Challenges"_, might change based on the survey on the topics of interest.
 * 15:00–15:30 — **Round table discussion #2**. Tentatively: _"What Researchers Need from the IDE and What the IDE Needs from Researchers"_, might change based on the survey on the topics of interest.
 * 15:30–16:00 — _Coffee break_.
-* 16:00–17:20 — **Free format** group talks, based on the survey on the topics of interest.
+* 16:00–17:20 — **Free format group talks**, based on the survey on the topics of interest.
 * 17:20–17:30 — **Closing word** from the organizers.
 
 ## Accepted papers
