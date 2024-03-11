@@ -58,7 +58,7 @@ A more detailed program with poster splits by rounds can be found at [ICSE websi
 * [**Bridging Education and Development: IDEs as Interactive Learning Platforms**](https://arxiv.org/abs/2401.14284) --- Anastasiia Birillo, Mariia Tigina, Zarina Kurbatova, Anna Potriasaeva, Ilya Vlasov _(JetBrains Research)_, Valerii Ovchinnikov _(Constructor University)_, Igor Gerasimov _(JetBrains)_.
 * [**JetTrain: IDE-Native Machine Learning Experiments**](https://arxiv.org/abs/2402.10857) --- Artem Trofimov, Mikhail Kostyukov, Sergei Ugdyzhekov, Natalia Ponomareva, Igor Naumov, Maksim Melekhovets _(JetBrains)_.
 * [**Embedding-based search in JetBrains IDEs**](https://arxiv.org/abs/2401.14975) --- Evgeny Abramov, Nikolai Palchikov _(JetBrains)_.
-* **IDEs in the age of LLMs and XR** --- Jesus M. Gonzalez-Barahona _(Universidad Rey Juan Carlos)_.
+* [**IDEs in the age of LLMs and XR**](https://burjcdigital.urjc.es/bitstream/handle/10115/30866/paper.pdf) --- Jesus M. Gonzalez-Barahona _(Universidad Rey Juan Carlos)_.
 * **HyLiMo: A Hybrid Live-Synchronized Modular Diagramming Editor as IDE Extension for Technical and Scientific Publications** --- Niklas Krieger, Sandro Speth _(Institute of Software Engineering, University of Stuttgart)_, Steffen Becker _(University of Stuttgart)_.
 * **Gamified GUI testing with Selenium in the IntelliJ IDE: A Prototype Plugin** --- Giacomo Garaccione, Tommaso Fulcini, Paolo Stefanut Bodnarescul, Riccardo Coppola, Luca Ardito _(Politecnico di Torino)_.
 * [**Trigram-Based Persistent IDE indices with Quick Startup**](https://arxiv.org/abs/2403.03751) --- Zakhar Iakovlev, Nikita Golikov, Alexey Chulkov _(ITMO University)_, Vyacheslav Lukianov, Nikita Zinoviev, Dmitry Ivanov _(Huawei RRI)_, Vitaly Aksenov _(City, University of London)_.
