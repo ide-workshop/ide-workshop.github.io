@@ -63,11 +63,11 @@ A more detailed program with poster splits by rounds can be found at [ICSE websi
 * **Gamified GUI testing with Selenium in the IntelliJ IDE: A Prototype Plugin** --- Giacomo Garaccione, Tommaso Fulcini, Paolo Stefanut Bodnarescul, Riccardo Coppola, Luca Ardito _(Politecnico di Torino)_.
 * [**Trigram-Based Persistent IDE indices with Quick Startup**](https://arxiv.org/abs/2403.03751) --- Zakhar Iakovlev, Nikita Golikov, Alexey Chulkov _(ITMO University)_, Vyacheslav Lukianov, Nikita Zinoviev, Dmitry Ivanov _(Huawei RRI)_, Vitaly Aksenov _(City, University of London)_.
 * [**I3DE: An IDE for Inspecting Inconsistencies in PL/SQL Code**](https://arxiv.org/abs/2403.03433) --- Jiangshan Liu, Shuang Liu, Junjie Chen _(College of Intelligence and Computing, Tianjin University)_.
-* **An IDE Plugin for Gamified Continuous Integration** --- Philipp Straubinger, Gordon Fraser _(University of Passau)_.
+* [**An IDE Plugin for Gamified Continuous Integration**](https://arxiv.org/abs/2403.03557) --- Philipp Straubinger, Gordon Fraser _(University of Passau)_.
 * [**In-IDE Human-AI Experience in the Era of Large Language Models; A Literature Review**](https://arxiv.org/abs/2401.10739) --- Agnia Sergeyuk, Sergey Titov _(JetBrains Research)_, Maliheh Izadi _(Delft University of Technology)_.
 * **Detecting Security-Relevant Methods using Multi-label Machine Learning** --- Oshando Johnson _(Fraunhofer IEM)_, Goran Piskachev _(Amazon Web Services)_, Ranjith Krishnamurthy _(Fraunhofer IEM)_, Eric Bodden _(Paderborn University and Fraunhofer IEM)_.
 * [**Hidden Gems in the Rough: Computational Notebooks as an Uncharted Oasis for IDEs**](https://arxiv.org/abs/2402.13739) --- Sergey Titov, Konstantin Grotov _(JetBrains Research)_, Ashwin Prasad S. Venkatesh _(Paderborn University)_.
-* **IntelliGame in Action: An Experience Report on Gamifying JavaScript Unit Tests** --- Philipp Straubinger _(University of Passau)_, Tommaso Fulcini _(Politecnico di Torino)_, Gordon Fraser _(University of Passau)_, Marco Torchiano _(Politecnico di Torino)_.
+* [**IntelliGame in Action: An Experience Report on Gamifying JavaScript Unit Tests**](https://arxiv.org/abs/2403.03565) --- Philipp Straubinger _(University of Passau)_, Tommaso Fulcini _(Politecnico di Torino)_, Gordon Fraser _(University of Passau)_, Marco Torchiano _(Politecnico di Torino)_.
 * **Envisioning the Next-Generation AI Coding Assistants: Insights & Proposals** --- Khanh Nghiem, Anh Minh Nguyen _(FPT Software AI Center)_, Nghi Bui _(Fulbright Univerisity)_.
 
 ## Call for submissions
