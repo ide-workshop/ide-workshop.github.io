@@ -51,7 +51,7 @@ A more detailed program with poster splits by rounds can be found at [ICSE websi
 * [**Help Me to Understand this Commit! - A Vision for Contextualized Code Reviews**](https://arxiv.org/abs/2402.09528) --- Michael Unterkalmsteiner _(Blekinge Institute of Technology)_, Deepika Badampudi _(Blekinge Institute of Technology)_, Ricardo Britto _(Ericsson / Blekinge Institute of Technology)_, Nauman Bin Ali _(Blekinge Institute of Technology)_.
 * **On the Integration of Spectrum-Based Fault Localization Tools into IDEs** --- Attila Szatmári _(Szegedi Tudományegyetem)_, Qusay Idrees Sarhan _(Department of Computer Science, University of Duhok)_, Péter Attila Soha, Gergő Balogh, Árpád Beszédes _(Department of Software Engineering, University of Szeged)_.
 * **Jasay: Towards Voice Commands in Projectional Editors** --- André Santos, Alexandre Cancelinha, Fernando Batista _(ISCTE-IUL)_.
-* **Understanding and Evaluating Developer Behaviour in Programming Tasks** --- Martin Schröer, Rainer Koschke _(University of Bremen, Germany)_.
+* [**Understanding and Evaluating Developer Behaviour in Programming Tasks**](https://arxiv.org/abs/2403.08480) --- Martin Schröer, Rainer Koschke _(University of Bremen, Germany)_.
 * [**Tool-augmented LLMs as a Universal Interface for IDEs**](https://arxiv.org/abs/2402.11635) --- Yaroslav Zharov, Yury Khudyakov, Evgeniia Fedotova, Evgeny Grigorenko, Egor Bogomolov _(JetBrains Research)_.
 * **A New Generation of Intelligent Development Environment** --- Mark Marron _(University of Kentucky)_.
 * **"Don't Step on My Toes": Resolving Editing Conflicts in Real-Time Collaboration in Computational Notebooks** --- April Wang _(ETH Zürich)_, Zihan Wu, Christopher Brooks, Steve Oney _(University of Michigan)_.
