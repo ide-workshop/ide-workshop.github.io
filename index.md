@@ -68,7 +68,7 @@ A more detailed program with poster splits by rounds can be found at [ICSE websi
 * [**Detecting Security-Relevant Methods using Multi-label Machine Learning**](https://arxiv.org/abs/2403.07501) --- Oshando Johnson _(Fraunhofer IEM)_, Goran Piskachev _(Amazon Web Services)_, Ranjith Krishnamurthy _(Fraunhofer IEM)_, Eric Bodden _(Paderborn University and Fraunhofer IEM)_.
 * [**Hidden Gems in the Rough: Computational Notebooks as an Uncharted Oasis for IDEs**](https://arxiv.org/abs/2402.13739) --- Sergey Titov, Konstantin Grotov _(JetBrains Research)_, Ashwin Prasad S. Venkatesh _(Paderborn University)_.
 * [**IntelliGame in Action: An Experience Report on Gamifying JavaScript Unit Tests**](https://arxiv.org/abs/2403.03565) --- Philipp Straubinger _(University of Passau)_, Tommaso Fulcini _(Politecnico di Torino)_, Gordon Fraser _(University of Passau)_, Marco Torchiano _(Politecnico di Torino)_.
-* **Envisioning the Next-Generation AI Coding Assistants: Insights & Proposals** --- Khanh Nghiem, Anh Minh Nguyen _(FPT Software AI Center)_, Nghi Bui _(Fulbright Univerisity)_.
+* [**Envisioning the Next-Generation AI Coding Assistants: Insights & Proposals**](https://arxiv.org/abs/2403.14592) --- Khanh Nghiem, Anh Minh Nguyen _(FPT Software AI Center)_, Nghi Bui _(Fulbright Univerisity)_.
 
 ## Call for submissions
 
