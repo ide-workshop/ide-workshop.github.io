@@ -54,7 +54,7 @@ A more detailed program with poster splits by rounds can be found at [ICSE websi
 * [**Understanding and Evaluating Developer Behaviour in Programming Tasks**](https://arxiv.org/abs/2403.08480) --- Martin Schröer, Rainer Koschke _(University of Bremen, Germany)_.
 * [**Tool-augmented LLMs as a Universal Interface for IDEs**](https://arxiv.org/abs/2402.11635) --- Yaroslav Zharov, Yury Khudyakov, Evgeniia Fedotova, Evgeny Grigorenko, Egor Bogomolov _(JetBrains Research)_.
 * **A New Generation of Intelligent Development Environment** --- Mark Marron _(University of Kentucky)_.
-* **"Don't Step on My Toes": Resolving Editing Conflicts in Real-Time Collaboration in Computational Notebooks** --- April Wang _(ETH Zürich)_, Zihan Wu, Christopher Brooks, Steve Oney _(University of Michigan)_.
+* [**"Don't Step on My Toes": Resolving Editing Conflicts in Real-Time Collaboration in Computational Notebooks**](https://arxiv.org/abs/2404.04695) --- April Wang _(ETH Zürich)_, Zihan Wu, Christopher Brooks, Steve Oney _(University of Michigan)_.
 * [**Bridging Education and Development: IDEs as Interactive Learning Platforms**](https://arxiv.org/abs/2401.14284) --- Anastasiia Birillo, Mariia Tigina, Zarina Kurbatova, Anna Potriasaeva, Ilya Vlasov _(JetBrains Research)_, Valerii Ovchinnikov _(Constructor University)_, Igor Gerasimov _(JetBrains)_.
 * [**JetTrain: IDE-Native Machine Learning Experiments**](https://arxiv.org/abs/2402.10857) --- Artem Trofimov, Mikhail Kostyukov, Sergei Ugdyzhekov, Natalia Ponomareva, Igor Naumov, Maksim Melekhovets _(JetBrains)_.
 * [**Embedding-based search in JetBrains IDEs**](https://arxiv.org/abs/2401.14975) --- Evgeny Abramov, Nikolai Palchikov _(JetBrains)_.
