@@ -39,7 +39,7 @@ A more detailed program with poster splits by rounds can be found at [ICSE websi
 * 14:30–15:00 — **Round table discussion #1**. Tentatively: _"Packaging Research in Plugins: Lessons Learned & Open Challenges"_, might change based on the survey on the topics of interest.
 * 15:00–15:30 — **Round table discussion #2**. Tentatively: _"What Researchers Need from the IDE and What the IDE Needs from Researchers"_, might change based on the survey on the topics of interest.
 * 15:30–16:00 — _Coffee break_.
-* 16:00–17:20 — **Free format group talks**, based on the survey on the topics of interest.
+* 16:00–17:20 — **Unconference/group discussions** based on the topics from the survey and participatory planning earlier in the day.
 * 17:20–17:30 — **Closing word** from the organizers.
 
 ## Accepted papers
