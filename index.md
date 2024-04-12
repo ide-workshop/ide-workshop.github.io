@@ -35,11 +35,11 @@ A more detailed program with poster splits by rounds can be found at [ICSE websi
 * 11:30–12:00 — **Poster session**. Round 2.
 * 12:00–12:30 — **Poster session**. Round 3.
 * 12:30–14:00 — _Lunch_.
-* 14:00–14:30 — **Tutorial**. Tentatively: _"Developing IDE Plugins"_.
-* 14:30–15:00 — **Round table discussion #1**. Tentatively: _"Packaging Research in Plugins: Lessons Learned & Open Challenges"_, might change based on the survey on the topics of interest.
-* 15:00–15:30 — **Round table discussion #2**. Tentatively: _"What Researchers Need from the IDE and What the IDE Needs from Researchers"_, might change based on the survey on the topics of interest.
+* 14:00–14:30 — **Tutorial**. _"Developing IDE Plugins"_ by [Zarina Kurbatova](https://www.linkedin.com/in/zarina-kurbatova/), Researcher at JetBrains.
+* 14:30–15:00 — **Round table discussion #1**. _"Packaging Research in Plugins: Lessons Learned & Open Challenges"_.
+* 15:00–15:30 — **Round table discussion #2**. _"What Researchers Need from the IDE and What the IDE Needs from Researchers"_.
 * 15:30–16:00 — _Coffee break_.
-* 16:00–17:20 — **Unconference/group discussions** based on the topics from the survey and participatory planning earlier in the day.
+* 16:00–17:20 — **Unconference / Group Discussions** based on the topics from the survey and participatory planning earlier in the day.
 * 17:20–17:30 — **Closing word** from the organizers.
 
 ## Accepted papers
