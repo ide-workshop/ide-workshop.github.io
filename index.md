@@ -7,6 +7,7 @@ layout: page
 
 ## News
 
+* **April 20th**: the dinner will take place at [NAU Palacio do Governador](https://maps.app.goo.gl/HvpdXWzi2kWfi7Qx8).
 * **March 10th**: the fuller program is up at [ICSE's website](https://conf.researchr.org/program/icse-2024/program-icse-2024/?track=IDE).
 * **March 6th**: we are excited to welcome our second keynote speaker — [Nikita Koval](https://nikitakoval.org/),
   a researcher in the Kotlin team at JetBrains and lead a Concurrent Computing lab at JetBrains Research.
@@ -41,6 +42,7 @@ A more detailed program with poster splits by rounds can be found at [ICSE websi
 * 15:30–16:00 — _Coffee break_.
 * 16:00–17:20 — **Unconference / Group Discussions** based on the topics from the survey and participatory planning earlier in the day.
 * 17:20–17:30 — **Closing word** from the organizers.
+* 19:30–... — **Dinner** at [NAU Palacio do Governador](https://maps.app.goo.gl/HvpdXWzi2kWfi7Qx8), 10 minutes from the conference venue.
 
 ## Accepted papers
 
