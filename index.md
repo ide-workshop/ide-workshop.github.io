@@ -8,7 +8,7 @@ layout: page
 ## News
 
 * **April 30th**: published materials from the tutorial — [presentation](https://ide-workshop.github.io/content/tutorial.pdf) and [repository with plugin example](https://github.com/JetBrains-Research/ide-workshop-tutorial).
-* **April 20th**: **the workshop took place! Tрank you!**
+* **April 20th**: **the workshop took place! Thank you!**
 * **April 20th**: the dinner will take place at [NAU Palacio do Governador](https://maps.app.goo.gl/HvpdXWzi2kWfi7Qx8).
 * **March 10th**: the fuller program is up at [ICSE's website](https://conf.researchr.org/program/icse-2024/program-icse-2024/?track=IDE).
 * **March 6th**: we are excited to welcome our second keynote speaker — [Nikita Koval](https://nikitakoval.org/),
