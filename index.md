@@ -7,6 +7,8 @@ layout: page
 
 ## News
 
+* **April 30th**: published materials from the tutorial — [presentation](https://ide-workshop.github.io/content/tutorial.pdf) and [repository with plugin example](https://github.com/JetBrains-Research/ide-workshop-tutorial).
+* **April 20th**: **the workshop took place! THank you!**
 * **April 20th**: the dinner will take place at [NAU Palacio do Governador](https://maps.app.goo.gl/HvpdXWzi2kWfi7Qx8).
 * **March 10th**: the fuller program is up at [ICSE's website](https://conf.researchr.org/program/icse-2024/program-icse-2024/?track=IDE).
 * **March 6th**: we are excited to welcome our second keynote speaker — [Nikita Koval](https://nikitakoval.org/),
@@ -36,7 +38,7 @@ A more detailed program with poster splits by rounds can be found at [ICSE websi
 * 11:30–12:00 — **Poster session**. Round 2.
 * 12:00–12:30 — **Poster session**. Round 3.
 * 12:30–14:00 — _Lunch_.
-* 14:00–14:30 — **Tutorial**. _"Developing IDE Plugins"_ by [Zarina Kurbatova](https://www.linkedin.com/in/zarina-kurbatova/), Researcher at JetBrains.
+* 14:00–14:30 — **Tutorial**. _"Developing IDE Plugins"_ by [Zarina Kurbatova](https://www.linkedin.com/in/zarina-kurbatova/), Researcher at JetBrains. Materials: [presentation](https://ide-workshop.github.io/content/tutorial.pdf) and [repository with plugin example](https://github.com/JetBrains-Research/ide-workshop-tutorial).
 * 14:30–15:00 — **Round table discussion #1**. _"Packaging Research in Plugins: Lessons Learned & Open Challenges"_.
 * 15:00–15:30 — **Round table discussion #2**. _"What Researchers Need from the IDE and What the IDE Needs from Researchers"_.
 * 15:30–16:00 — _Coffee break_.
