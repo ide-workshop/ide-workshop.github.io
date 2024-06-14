@@ -1,5 +1,5 @@
 ---
-title: ICSE '24 workshop on IDEs
+title: The IDE Workshop
 layout: page
 ---
 
