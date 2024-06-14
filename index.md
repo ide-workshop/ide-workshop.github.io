@@ -3,7 +3,7 @@ title: ICSE '24 workshop on IDEs
 layout: page
 ---
 
-{% include figure.html img="title.jpg" alt="title card" width="100%" %}
+{% include figure.html img="title-2025.jpg" alt="title card" width="100%" %}
 
 ## News
 
