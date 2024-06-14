@@ -7,72 +7,8 @@ layout: page
 
 ## News
 
-* **April 30th**: published materials from the tutorial — [presentation](https://ide-workshop.github.io/content/tutorial.pdf) and [repository with plugin example](https://github.com/JetBrains-Research/ide-workshop-tutorial).
-* **April 20th**: **the workshop took place! Thank you!**
-* **April 20th**: the dinner will take place at [NAU Palacio do Governador](https://maps.app.goo.gl/HvpdXWzi2kWfi7Qx8).
-* **March 10th**: the fuller program is up at [ICSE's website](https://conf.researchr.org/program/icse-2024/program-icse-2024/?track=IDE).
-* **March 6th**: we are excited to welcome our second keynote speaker — [Nikita Koval](https://nikitakoval.org/),
-  a researcher in the Kotlin team at JetBrains and lead a Concurrent Computing lab at JetBrains Research.
-* **March 4th**: the preliminary version of the program is up, and we are collecting opinions from participants to specify it.
-* **February 15th**: we are excited to welcome our first keynote speaker — [Boris Bokowski](https://www.linkedin.com/in/borisbokowski/),
-  Director of Engineering at Google, who oversees the internal development tools for Google's developers and in particular the AI tools for their
-  IDEs.
-* **January 25th**: overall, **25 papers** were accepted to the workshop! Congratulations to the authors!
-* **January 11th**: the reviews are done, and we sent out the notifications to the authors. Congratulations!
-* **December 7th**: the deadline for submissions have passed, and we started the review process. We received a total of **27 submissions**!
-* **November 2nd**: the date for the workshop has been set for April 20th (Saturday)
-* **October 17th**: deadlines updated (the submission deadline is now **December 7th, 2023**)
-* **September 17th**: our [EasyChair](https://easychair.org/conferences/?conf=ide24) is open to your submissions
-* **September 17th**: the website is up
-* **September 17th**: the IDE workshop is accepted to ICSE'24
-
-## Program
-
-A more detailed program with poster splits by rounds can be found at [ICSE website](https://conf.researchr.org/program/icse-2024/program-icse-2024/?track=IDE).
-
-* 09:00–09:10 — **Welcoming message** from the organizers.
-* 09:10–09:50 — **Keynote #1**: _"IDEs at Google — Past, Present, Future"_ by [Boris Bokowski](https://www.linkedin.com/in/borisbokowski/), Director of Engineering at Google. 
-* 09:50–10:30 — **Keynote #2**: _"IDE Integration: A Case Study on Boosting Concurrency Testing"_ by [Nikita Koval](https://nikitakoval.org/), Researcher at JetBrains.
-* 10:30–11:00 — _Coffee break_.
-* 11:00–11:30 — **Poster session**. Round 1.
-* 11:30–12:00 — **Poster session**. Round 2.
-* 12:00–12:30 — **Poster session**. Round 3.
-* 12:30–14:00 — _Lunch_.
-* 14:00–14:30 — **Tutorial**. _"Developing IDE Plugins"_ by [Zarina Kurbatova](https://www.linkedin.com/in/zarina-kurbatova/), Researcher at JetBrains. Materials: [presentation](https://ide-workshop.github.io/content/tutorial.pdf) and [repository with plugin example](https://github.com/JetBrains-Research/ide-workshop-tutorial).
-* 14:30–15:00 — **Round table discussion #1**. _"Packaging Research in Plugins: Lessons Learned & Open Challenges"_.
-* 15:00–15:30 — **Round table discussion #2**. _"What Researchers Need from the IDE and What the IDE Needs from Researchers"_.
-* 15:30–16:00 — _Coffee break_.
-* 16:00–17:20 — **Unconference / Group Discussions** based on the topics from the survey and participatory planning earlier in the day.
-* 17:20–17:30 — **Closing word** from the organizers.
-* 19:30–... — **Dinner** at [NAU Palacio do Governador](https://maps.app.goo.gl/HvpdXWzi2kWfi7Qx8), 10 minutes from the conference venue.
-
-## Accepted papers
-
-* [**The Visual Debugger: Past, Present, and Future**](https://arxiv.org/abs/2403.03683) --- Tim Kräuter, Patrick Stünkel, Adrian Rutle, Yngve Lamo _(Western Norway University of Applied Sciences)_.
-* [**Challenges of Processing Data Clumps within Plugin Architectures of Integrated Development Environment**](https://arxiv.org/abs/2403.03903) --- Nils Baumgartner, Elke Pulvermueller _(Institute of Computer Science, University of Osnabrueck)_.
-* [**Lessons from a Pioneering Software Engineering Environment: Design Principles of Software through Pictures**](https://arxiv.org/abs/2403.08085) --- Anthony Wasserman _(Software Methods and Tools)_.
-* [**Context Composing for Full Line Code Completion**](https://arxiv.org/abs/2402.09230) --- Anton Semenkin, Yaroslav Sokolov, Evgeniia Vu _(JetBrains)_.
-* [**Help Me to Understand this Commit! - A Vision for Contextualized Code Reviews**](https://arxiv.org/abs/2402.09528) --- Michael Unterkalmsteiner _(Blekinge Institute of Technology)_, Deepika Badampudi _(Blekinge Institute of Technology)_, Ricardo Britto _(Ericsson / Blekinge Institute of Technology)_, Nauman Bin Ali _(Blekinge Institute of Technology)_.
-* [**On the Integration of Spectrum-Based Fault Localization Tools into IDEs**](https://arxiv.org/abs/2403.11538) --- Attila Szatmári _(Szegedi Tudományegyetem)_, Qusay Idrees Sarhan _(Department of Computer Science, University of Duhok)_, Péter Attila Soha, Gergő Balogh, Árpád Beszédes _(Department of Software Engineering, University of Szeged)_.
-* [**Jasay: Towards Voice Commands in Projectional Editors**](https://github.com/andre-santos-pt/andre-santos-pt.github.io/blob/master/papers/santosJasay.pdf) --- André Santos, Alexandre Cancelinha, Fernando Batista _(ISCTE-IUL)_.
-* [**Understanding and Evaluating Developer Behaviour in Programming Tasks**](https://arxiv.org/abs/2403.08480) --- Martin Schröer, Rainer Koschke _(University of Bremen, Germany)_.
-* [**Tool-augmented LLMs as a Universal Interface for IDEs**](https://arxiv.org/abs/2402.11635) --- Yaroslav Zharov, Yury Khudyakov, Evgeniia Fedotova, Evgeny Grigorenko, Egor Bogomolov _(JetBrains Research)_.
-* **A New Generation of Intelligent Development Environment** --- Mark Marron _(University of Kentucky)_.
-* [**"Don't Step on My Toes": Resolving Editing Conflicts in Real-Time Collaboration in Computational Notebooks**](https://arxiv.org/abs/2404.04695) --- April Wang _(ETH Zürich)_, Zihan Wu, Christopher Brooks, Steve Oney _(University of Michigan)_.
-* [**Bridging Education and Development: IDEs as Interactive Learning Platforms**](https://arxiv.org/abs/2401.14284) --- Anastasiia Birillo, Mariia Tigina, Zarina Kurbatova, Anna Potriasaeva, Ilya Vlasov _(JetBrains Research)_, Valerii Ovchinnikov _(Constructor University)_, Igor Gerasimov _(JetBrains)_.
-* [**JetTrain: IDE-Native Machine Learning Experiments**](https://arxiv.org/abs/2402.10857) --- Artem Trofimov, Mikhail Kostyukov, Sergei Ugdyzhekov, Natalia Ponomareva, Igor Naumov, Maksim Melekhovets _(JetBrains)_.
-* [**Embedding-based search in JetBrains IDEs**](https://arxiv.org/abs/2401.14975) --- Evgeny Abramov, Nikolai Palchikov _(JetBrains)_.
-* [**IDEs in the age of LLMs and XR**](https://burjcdigital.urjc.es/bitstream/handle/10115/30866/paper.pdf) --- Jesus M. Gonzalez-Barahona _(Universidad Rey Juan Carlos)_.
-* [**HyLiMo: A Hybrid Live-Synchronized Modular Diagramming Editor as IDE Extension for Technical and Scientific Publications**](https://arxiv.org/abs/2403.13711) --- Niklas Krieger, Sandro Speth _(Institute of Software Engineering, University of Stuttgart)_, Steffen Becker _(University of Stuttgart)_.
-* [**Gamified GUI testing with Selenium in the IntelliJ IDE: A Prototype Plugin**](https://arxiv.org/abs/2403.09842) --- Giacomo Garaccione, Tommaso Fulcini, Paolo Stefanut Bodnarescul, Riccardo Coppola, Luca Ardito _(Politecnico di Torino)_.
-* [**Trigram-Based Persistent IDE indices with Quick Startup**](https://arxiv.org/abs/2403.03751) --- Zakhar Iakovlev, Nikita Golikov, Alexey Chulkov _(ITMO University)_, Vyacheslav Lukianov, Nikita Zinoviev, Dmitry Ivanov _(Huawei RRI)_, Vitaly Aksenov _(City, University of London)_.
-* [**I3DE: An IDE for Inspecting Inconsistencies in PL/SQL Code**](https://arxiv.org/abs/2403.03433) --- Jiangshan Liu, Shuang Liu, Junjie Chen _(College of Intelligence and Computing, Tianjin University)_.
-* [**An IDE Plugin for Gamified Continuous Integration**](https://arxiv.org/abs/2403.03557) --- Philipp Straubinger, Gordon Fraser _(University of Passau)_.
-* [**In-IDE Human-AI Experience in the Era of Large Language Models; A Literature Review**](https://arxiv.org/abs/2401.10739) --- Agnia Sergeyuk, Sergey Titov _(JetBrains Research)_, Maliheh Izadi _(Delft University of Technology)_.
-* [**Detecting Security-Relevant Methods using Multi-label Machine Learning**](https://arxiv.org/abs/2403.07501) --- Oshando Johnson _(Fraunhofer IEM)_, Goran Piskachev _(Amazon Web Services)_, Ranjith Krishnamurthy _(Fraunhofer IEM)_, Eric Bodden _(Paderborn University and Fraunhofer IEM)_.
-* [**Hidden Gems in the Rough: Computational Notebooks as an Uncharted Oasis for IDEs**](https://arxiv.org/abs/2402.13739) --- Sergey Titov, Konstantin Grotov _(JetBrains Research)_, Ashwin Prasad S. Venkatesh _(Paderborn University)_.
-* [**IntelliGame in Action: An Experience Report on Gamifying JavaScript Unit Tests**](https://arxiv.org/abs/2403.03565) --- Philipp Straubinger _(University of Passau)_, Tommaso Fulcini _(Politecnico di Torino)_, Gordon Fraser _(University of Passau)_, Marco Torchiano _(Politecnico di Torino)_.
-* [**Envisioning the Next-Generation AI Coding Assistants: Insights & Proposals**](https://arxiv.org/abs/2403.14592) --- Khanh Nghiem, Anh Minh Nguyen _(FPT Software AI Center)_, Nghi Bui _(Fulbright Univerisity)_.
+* **June 15th**: workshop proposal sent to ICSE'25
+* **June 15th**: the website is up
 
 ## Call for submissions
 
@@ -144,55 +80,49 @@ cares about practical impact and improving the lives of software developers!
 ### Submission process
 
 The information about the paper template and the relevant ACM/IEEE policies can be found on the 
-[main ICSE page with submission information](https://conf.researchr.org/track/icse-2024/icse-2024-research-track#submission-process) (please note the necessary options to turn the paper into two columns).
+[main ICSE page with submission information](https://conf.researchr.org/track/icse-2025/icse-2025-research-track#submission-process).
 The IDE workshop employs the **single-blind** review process, _i.e._, you do not need to conceal your identity.
 The workshop accepts short research papers (4 pages + 1 page for references) and shorter position 
 papers (1-2 pages + 1 page for references). 
 
-Papers must be submitted electronically via by the defined deadline (see important dates below) on **EasyChair**: 
-[https://easychair.org/conferences/?conf=ide24](https://easychair.org/conferences/?conf=ide24). At least one author of each accepted paper should register for the
+Papers must be submitted electronically via by the defined deadline (see important dates below) on **EasyChair** (to be added). 
+At least one author of each accepted paper should register for the
 workshop and present the paper in the workshop. If you have any questions, do not hesitate to contact
 the proceedings chair for any inquiries (see contacts below).
 
-The official publication date of the workshop proceedings is the date the proceedings are made
-available in the ACM Library. This date may be up to two weeks prior to the first day of ICSE 2024.
-The official publication date affects the deadline for any patent filings related to published work.
-
 ### Important dates
 
-* Papers submission deadline: ~~November 9th, 2023~~ **December 7th, 2023**
-* Papers acceptance notification: ~~December 21st, 2023~~ January 11th, 2024
-* Camera ready deadline: January 25th, 2024
-* Workshop: April 20th, 2024 (Saturday)
+* Papers submission deadline: November 11th, 2024
+* Papers acceptance notification: December 1st, 2024
+* Camera ready deadline: February 5th, 2025
 
 ## Organizing committee
 
-**General co-chair**: [Danny Dig](http://dig.cs.illinois.edu/), JetBrains Research & University of Colorado Boulder
+**General chair**: [Danny Dig](http://dig.cs.illinois.edu/), JetBrains Research & University of Colorado Boulder
 
-**General co-chair**: [Timofey Bryksin](https://jzuken.github.io/), JetBrains Research
+**Program chair**: [Iftekhar Ahmed](https://ics.uci.edu/~iftekha/), University of California, Irvine
+
+**Publicity chair**: [Carolin Brandt](https://carolin-brandt.de/), TU Delft
 
 **Proceedings & Web chair, main contact person**: [Yaroslav Golubev](https://areyde.com/), JetBrains Research. 
 Please contact me at [yaroslav.golubev@jetbrains.com](mailto:yaroslav.golubev@jetbrains.com).
 
-**Industry chair**: Alexander Bezzubov, JetBrains
-
 ## Program committee
 
-* [Sarah Nadi](https://sarahnadi.org/), University of Alberta
-* [Nikolaos Tsantalis](https://users.encs.concordia.ca/~nikolaos/), Concordia University
-* [Iftekhar Ahmed](https://www.ics.uci.edu/~iftekha/), University of California, Irvine
-* [Malinda Malwala](https://maldil.github.io/), University of Colorado Boulder
-* Egor Bogomolov, JetBrains Research
-* Ademar Aguiar, University of Porto
-* [Sebastian Proksch](https://proks.ch/), Delft University of Technology 
-* Artem Trofimov, JetBrains
-* Svetlana Zemlyanskaya, JetBrains GmbH
+* [Alexander Bezzubov](https://www.linkedin.com/in/alexanderbzz/), JetBrains
+* [Timofey Bryksin](https://jzuken.github.io/), JetBrains
+* [Tommaso Fulcini](https://www.linkedin.com/in/tommaso-fulcini/), Politecnico di Torino
+* [Noopur Gupta](https://www.linkedin.com/in/noopur2507), IBM, Eclipse IDE
+* [Niklas Krieger](https://www.linkedin.com/in/niklas-krieger-39774b243/), University of Stuttgart
+* [Goran Piskachev](https://piskachev.github.io), Amazon Web Services
+* [Raluca Sauciuc](https://www.linkedin.com/in/raluca-sauciuc-4aa0a020), Google LLC, AndroidStudio
+* [Sandro Speth](https://www.linkedin.com/in/sandro-speth/), University of Stuttgart
+* [Philipp Straubinger](https://www.linkedin.com/in/philipp-straubinger), University of Passau
 * [Simon Thompson](https://www.kent.ac.uk/computing/people/3164/thompson-simon), University of Kent
-* Noopur Gupta, IBM, Eclipse
-* Raluca Sauciuc, Google
-* [Matthew Gharrity](http://www.mattgharrity.com/), Google
-* Jan Lahoda, Oracle Czech s.r.o.
-* [Peter Sommerlad](https://sommerlad.ch/), Better Software
+* [Nikolaos Tsantalis](https://users.encs.concordia.ca/~nikolaos/), Concordia University
+* [Svetlana Zemlyanskaya](https://www.linkedin.com/in/svetlana-zemlyanskaya-aa958855), JetBrains GmbH
+
+
 
 [//]: # (&#40;{% include toc.html %}&#41;)
 
