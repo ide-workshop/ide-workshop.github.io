@@ -102,7 +102,7 @@ the proceedings chair for any inquiries (see contacts below).
 
 **Program chair**: [Iftekhar Ahmed](https://ics.uci.edu/~iftekha/), University of California, Irvine
 
-**Publicity chair**: [Carolin Brandt](https://carolin-brandt.de/), TU Delft
+**Publicity chair**: [Carolin Brandt](https://carolin-brandt.de/), Delft University of Technology
 
 **Proceedings & Web chair, main contact person**: [Yaroslav Golubev](https://areyde.com/), JetBrains Research. 
 Please contact me at [yaroslav.golubev@jetbrains.com](mailto:yaroslav.golubev@jetbrains.com).
