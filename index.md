@@ -12,70 +12,64 @@ layout: page
 
 ## Call for submissions
 
-Despite the research community’s desire to improve the productivity of software developers, 
-it is challenging for research to move beyond papers into the everyday practice of software development.
-Since IDEs are one of the most widely used tools in developers’ toolkit, they remain a crucial venue 
+Despite the desire of the research community to improve the productivity of software developers, 
+it is challenging for research to move beyond papers into the everyday practice of software development. 
+Since IDEs are among the most widely used tools in developers’ toolkit, they remain a crucial opportunity 
 for research to reach software developers. To close the gap between research and adoption in practice, 
-we are launching the first edition of the **IDE workshop**. 
+we launched the IDE workshop series at ICSE'24. In our post-workshop survey, the participants commented 
+on the value they received, saying: _"A lot of meaningful connections, including academy-to-industry, 
+inspiring discussions"_, _"Lively and friendly atmosphere! The strong industry presence definitely makes 
+discussing the topics more interesting"_.  We build upon the momentum from our first workshop and aim 
+to exceed expectations at our second instance at ICSE'25.
 
-At our workshop, we are equipping the academic researchers with practical insights you need to 
-successfully deploy your research through IDE plugins. We also aim to inspire academic educators and 
-provide resources you can use to augment your teaching toolkit, so you can effectively teach SE concepts 
-through IDE features. We are connecting you with IDE builders that share insights and best practices, 
-and show previews of upcoming IDE features. 
+At our workshop, we equip you with practical insights you need to successfully deploy your research through IDE plugins,
+as well as inspire academic educators and provide resources you can use  to effectively teach SE concepts through
+IDE features.
 
-Join us to learn from evidence-based best practices that colleagues in academia follow when conducting 
-research through IDE features. We invite you to share your perspective and identify entry-barriers and 
-promising ideas from the research community so that IDE builders can make informed decisions on how IDEs 
-could best serve the research, development, and education community. Join us and rub shoulders with a 
-community of researchers and IDE builders that are committed to go the extra mile to move research into 
-practice. 
+We invite you to share your perspective and identify entry-barriers and promising ideas from the research community 
+so that IDE builders can make informed decisions on how IDEs could best serve everyone. Join us and rub shoulders 
+with a community of researchers and IDE builders that are committed to moving research into practice. 
+Together we go farther. 
 
 ### Topics of interest
 
-Our target audience includes **both academic researchers/educators and IDE developers from industry**.
+Our target audience includes **both academic researchers and IDE developers from industry**.
 
 **From the research side**, we welcome any contributions that relate to IDEs, in the form of short 
-research papers (up to 4 pages + 1 page for references) or shorter position papers (1–2 pages + 1 page
+research papers (up to 5 pages + 1 page for references) or shorter position papers (1–2 pages + 1 page
 for references). The topics include, but are not limited to:
 
 * The development of plugins, add-ons, and extensions for IDEs.
 * Integrating prototypes or machine learning models into the IDEs.
 * Improving various IDE features, such as automated refactorings, quick fixes, etc.
-* Program analysis and static analysis inside the IDE.
-* UI/UX studies of working in the IDE, analyzing the way people use IDEs, their workflow, activities, 
-attention, eye movement, etc.
+* Program and static analysis inside the IDE.
+* UI/UX studies of working in the IDE, analyzing the way people use IDEs, their workflow, activities, attention, eye movement, etc.
 * Visualizations in the IDEs.
-* Using IDEs to analyze software development activities by collecting usage data, _e.g._, 
-logs, datasets of interactions.
-* Insights and case studies of teaching various SE concepts (_e.g._, program comprehension, 
-refactoring, testing, debugging, etc.) using IDEs.
-* Anecdotal experience about why a certain tool or research approach was not implemented on top of 
-the IDE infrastructure but researchers chose alternatives (_e.g._, a CLI tool), what the blockers 
-were, and how the IDEs can improve to become more convenient for prototyping.
+* Using IDEs to analyze software development activities by collecting usage data.
+* Insights and case studies of teaching various SE concepts (_e.g._, program comprehension, refactoring, 
+testing, debugging, etc.) using IDEs.
+* Anecdotal experience about why a certain tool or research approach was not implemented on top of IDE infrastructure, 
+what the blockers were, and how the IDEs can improve to become more convenient for prototyping.
 * And others!
 
-**From the industry side**, we invite the developers of IDEs to share their perspective. Since industry 
-participants might not be familiar with writing academic papers, we invite them to contribute short position 
-papers (1-2 pages + 1 page for references). What's more, they can be submitted in free form, if needed, 
-and we ourselves can help with their formatting. The topics include, but are not limited to:
 
-* What exactly IDE builders are looking for in contributions from the research community and how 
-they try to incorporate them.
+**From industry**, we invite the developers of IDEs:
+
+* What exactly they are looking for in contributions from the research community.
 * What researchers can do to increase the chance of integration into the existing IDEs.
-* Upcoming or undocumented features and infrastructure in the IDEs that researchers can use to 
-accelerate their research development or could use for education.
+* Insights about IDEs that researchers can use to accelerate their research development or could use for education.
 
 We are open to the developers of other industrial solutions that operate outside IDEs (_e.g._, as 
-standalone services) to understand what precludes tighter integration with IDEs. 
-If you are interested in simplifying the deployment of research outcomes as IDE plugins, have an idea 
-on improving the IDEs that needs research, or are simply curious about the latest advancements in 
-software engineering research, come join us in meeting users & fellow developers.
+standalone services) to understand what precludes tighter integration with the rest of the Dev Tooling.
 
-We invited developers and project managers of several IDEs (IntelliJ, Visual Studio, Eclipse, NetBeans, 
-VS Code, AndroidStudio, etc.) to hopefully foster a fruitful discussion that can result in practical 
-collaborations. Please join us, share your perspective, and take part in growing the community that 
-cares about practical impact and improving the lives of software developers!
+We want to foster an inclusive community that is welcoming not only established academic researchers but also 
+industry participants who might not be familiar with writing academic papers. Thus, we invite IDE builders to 
+contribute short position papers (1-2 pages) in free form, and we ourselves can help with their formatting.
+
+We invited developers and project managers of several IDEs (IntelliJ, Visual Studio, Eclipse, NetBeans, VS Code, 
+AndroidStudio, etc.) to foster a fruitful discussion that can result in practical collaborations. Please join us, 
+share your perspective, and take part in growing the community that cares about practical impact and improving the 
+lives of software developers!
 
 ### Submission process
 
@@ -89,6 +83,10 @@ Papers must be submitted electronically via by the defined deadline (see importa
 At least one author of each accepted paper should register for the
 workshop and present the paper in the workshop. If you have any questions, do not hesitate to contact
 the proceedings chair for any inquiries (see contacts below).
+
+The official publication date of the workshop proceedings is the date the proceedings are made available by IEEE. 
+This date may be up to two weeks prior to the first day of ICSE 2025. The official publication date affects the 
+deadline for any patent filings related to published work.
 
 ### Important dates
 
