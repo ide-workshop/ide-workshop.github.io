@@ -7,6 +7,7 @@ layout: page
 
 ## News
 
+* **August 15th**: workshop accepted to ICSE'25!
 * **June 15th**: workshop proposal sent to ICSE'25
 * **June 15th**: the website is up
 
