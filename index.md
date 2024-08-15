@@ -7,6 +7,7 @@ layout: page
 
 ## News
 
+* **August 15th**: the [EasyChair](https://easychair.org/my/conference?conf=ide2025) is up
 * **August 15th**: workshop accepted to ICSE'25!
 * **June 15th**: workshop proposal sent to ICSE'25
 * **June 15th**: the website is up
@@ -76,11 +77,12 @@ lives of software developers!
 
 The information about the paper template and the relevant ACM/IEEE policies can be found on the 
 [main ICSE page with submission information](https://conf.researchr.org/track/icse-2025/icse-2025-research-track#submission-process).
+Submissions must conform to the [IEEE conference proceedings template](https://www.ieee.org/conferences/publishing/templates.html), specified in the IEEE Conference Proceedings Formatting Guidelines.
 The IDE workshop employs the **single-blind** review process, _i.e._, you do not need to conceal your identity.
 The workshop accepts short research papers (5 pages + 1 page for references) and shorter position 
 papers (1-2 pages + 1 page for references). 
 
-Papers must be submitted electronically via by the defined deadline (see important dates below) on **EasyChair** (to be added). 
+Papers must be submitted electronically via by the defined deadline (see important dates below) on **EasyChair**: https://easychair.org/my/conference?conf=ide2025. 
 At least one author of each accepted paper should register for the
 workshop and present the paper in the workshop. If you have any questions, do not hesitate to contact
 the proceedings chair for any inquiries (see contacts below).
