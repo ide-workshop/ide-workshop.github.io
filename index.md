@@ -82,7 +82,7 @@ The IDE workshop employs the **single-blind** review process, _i.e._, you do not
 The workshop accepts short research papers (5 pages + 1 page for references) and shorter position 
 papers (1-2 pages + 1 page for references). 
 
-Papers must be submitted electronically via by the defined deadline (see important dates below) on **EasyChair**: https://easychair.org/my/conference?conf=ide2025. 
+Papers must be submitted electronically via by the defined deadline (see important dates below) on **EasyChair**: [https://easychair.org/my/conference?conf=ide2025](https://easychair.org/my/conference?conf=ide2025). 
 At least one author of each accepted paper should register for the
 workshop and present the paper in the workshop. If you have any questions, do not hesitate to contact
 the proceedings chair for any inquiries (see contacts below).
