@@ -113,6 +113,7 @@ Please contact me at [yaroslav.golubev@jetbrains.com](mailto:yaroslav.golubev@je
 * [Tommaso Fulcini](https://www.linkedin.com/in/tommaso-fulcini/), Politecnico di Torino
 * [Noopur Gupta](https://www.linkedin.com/in/noopur2507), IBM, Eclipse IDE
 * [Niklas Krieger](https://www.linkedin.com/in/niklas-krieger-39774b243/), University of Stuttgart
+* [Sarah Nadi](https://sarahnadi.org), New York University Abu Dhabi
 * [Goran Piskachev](https://piskachev.github.io), Amazon Web Services
 * [Raluca Sauciuc](https://www.linkedin.com/in/raluca-sauciuc-4aa0a020), Google LLC, AndroidStudio
 * [Sandro Speth](https://www.linkedin.com/in/sandro-speth/), University of Stuttgart
