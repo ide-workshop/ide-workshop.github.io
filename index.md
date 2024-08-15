@@ -77,7 +77,7 @@ lives of software developers!
 The information about the paper template and the relevant ACM/IEEE policies can be found on the 
 [main ICSE page with submission information](https://conf.researchr.org/track/icse-2025/icse-2025-research-track#submission-process).
 The IDE workshop employs the **single-blind** review process, _i.e._, you do not need to conceal your identity.
-The workshop accepts short research papers (4 pages + 1 page for references) and shorter position 
+The workshop accepts short research papers (5 pages + 1 page for references) and shorter position 
 papers (1-2 pages + 1 page for references). 
 
 Papers must be submitted electronically via by the defined deadline (see important dates below) on **EasyChair** (to be added). 
