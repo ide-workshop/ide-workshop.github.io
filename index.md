@@ -5,12 +5,29 @@ layout: page
 
 {% include figure.html img="title-2025.jpg" alt="title card" width="100%" %}
 
+{% include figure.html img="sponsors.jpg" alt="sponsors" width="100%" %}
+
 ## News
 
 * **August 15th**: the [EasyChair](https://easychair.org/my/conference?conf=ide2025) is up
 * **August 15th**: workshop accepted to ICSE'25!
 * **June 15th**: workshop proposal sent to ICSE'25
 * **June 15th**: the website is up
+
+## About the workshop
+
+The 2nd Workshop on Integrated Development Environments (the IDE Workshop) is the prime venue for uniting researchers
+and practitioners in their shared passion for IDEs and developers' productivity. You can find a more detailed list
+of topics of interest in the Call for submissions below. The workshop is co-located with [ICSE'25](https://conf.researchr.org/home/icse-2025).
+You can find the most important information relevant to the entire conference by following these links:
+
+* [Venue](https://conf.researchr.org/venue/icse-2025/icse-2025-venue)
+* [Registration](https://conf.researchr.org/attending/icse-2025/registration)
+* [Hotels](https://conf.researchr.org/attending/icse-2025/Hotels)
+* [Visa and Travel Authorization](https://conf.researchr.org/attending/icse-2025/visa-and-travel-authorization)
+* [Travelling to Ottawa](https://conf.researchr.org/attending/icse-2025/Travelling)
+* [Equity, Diversity, and Inclusion Plan](https://conf.researchr.org/attending/icse-2025/Diversity+and+Inclusion+Plan)
+* [Code of Conduct](https://conf.researchr.org/attending/icse-2025/Code+of+Conduct)
 
 ## Call for submissions
 
@@ -77,19 +94,23 @@ lives of software developers!
 
 The information about the paper template and the relevant ACM/IEEE policies can be found on the 
 [main ICSE page with submission information](https://conf.researchr.org/track/icse-2025/icse-2025-research-track#submission-process).
-Submissions must conform to the [IEEE conference proceedings template](https://www.ieee.org/conferences/publishing/templates.html), specified in the IEEE Conference Proceedings Formatting Guidelines.
+Submissions must conform to the [IEEE conference proceedings template](https://www.ieee.org/conferences/publishing/templates.html), specified in the IEEE Conference Proceedings Formatting Guidelines
+(title in 24pt font and full text in 10pt type, LaTEX users must use `\documentclass[10pt,conference]{IEEEtran}` 
+without including the `compsoc` or `compsocconf` option).
+
 The IDE workshop employs the **single-blind** review process, _i.e._, you do not need to conceal your identity.
 The workshop accepts short research papers (5 pages + 1 page for references) and shorter position 
-papers (1-2 pages + 1 page for references). 
+papers (1-2 pages + 1 page for references). Purchases of additional pages in the proceedings are not allowed.
 
 Papers must be submitted electronically via by the defined deadline (see important dates below) on **EasyChair**: [https://easychair.org/my/conference?conf=ide2025](https://easychair.org/my/conference?conf=ide2025). 
+If your paper is accepted, the list of authors cannot be changed but mistakes in the author names can be fixed. Titles can be changed with the approval of the program chairs.
 At least one author of each accepted paper should register for the
 workshop and present the paper in the workshop. If you have any questions, do not hesitate to contact
 the proceedings chair for any inquiries (see contacts below).
 
-The official publication date of the workshop proceedings is the date the proceedings are made available by IEEE. 
-This date may be up to two weeks prior to the first day of ICSE 2025. The official publication date affects the 
-deadline for any patent filings related to published work.
+The official publication date is the date the proceedings are made available in the ACM or IEEE Digital Libraries. 
+This date may be up to two weeks prior to the first day of ICSE 2025. 
+The official publication date affects the deadline for any patent filings related to published work.
 
 ### Important dates
 
