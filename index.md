@@ -141,11 +141,13 @@ Please contact me at [yaroslav.golubev@jetbrains.com](mailto:yaroslav.golubev@je
 * [Sarah Nadi](https://sarahnadi.org), New York University Abu Dhabi
 * [Goran Piskachev](https://piskachev.github.io), Amazon Web Services
 * [Raluca Sauciuc](https://www.linkedin.com/in/raluca-sauciuc-4aa0a020), Google LLC, AndroidStudio
+* [Ilya Sergey](https://ilyasergey.net/), National University of Singapore
 * [Sandro Speth](https://www.linkedin.com/in/sandro-speth/), University of Stuttgart
 * [Philipp Straubinger](https://www.linkedin.com/in/philipp-straubinger), University of Passau
 * [Simon Thompson](https://www.kent.ac.uk/computing/people/3164/thompson-simon), University of Kent
 * [Nikolaos Tsantalis](https://users.encs.concordia.ca/~nikolaos/), Concordia University
 * [April Wang](https://aprilwang.me/), ETH Zürich
+* [Tony Wasserman](https://www.linkedin.com/in/tonywasserman/), Software Methods and Tools
 * [Svetlana Zemlyanskaya](https://www.linkedin.com/in/svetlana-zemlyanskaya-aa958855), JetBrains GmbH
 
 
