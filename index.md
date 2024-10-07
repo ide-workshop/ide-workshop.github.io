@@ -135,6 +135,7 @@ Please contact me at [yaroslav.golubev@jetbrains.com](mailto:yaroslav.golubev@je
 
 * [Alexander Bezzubov](https://www.linkedin.com/in/alexanderbzz/), JetBrains
 * [Timofey Bryksin](https://jzuken.github.io/), JetBrains
+* [Filipe Correia](https://filipecorreia.eu/), University of Porto
 * [Tommaso Fulcini](https://www.linkedin.com/in/tommaso-fulcini/), Politecnico di Torino
 * [Noopur Gupta](https://www.linkedin.com/in/noopur2507), IBM, Eclipse IDE
 * [Niklas Krieger](https://www.linkedin.com/in/niklas-krieger-39774b243/), University of Stuttgart
