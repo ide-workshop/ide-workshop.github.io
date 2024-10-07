@@ -17,7 +17,9 @@ layout: page
 ## About the workshop
 
 The 2nd Workshop on Integrated Development Environments (the IDE Workshop) is the prime venue for uniting researchers
-and practitioners in their shared passion for IDEs and developers' productivity. You can find a more detailed list
+and practitioners in their shared passion for IDEs and developers' productivity. 
+The [previous edition of the workshop](https://ide-workshop.github.io/content/ide-2024.html) attracted 25 papers and
+resulted in fantastic discussions. You can find a more detailed list
 of topics of interest in the Call for submissions below. The workshop is co-located with [ICSE'25](https://conf.researchr.org/home/icse-2025).
 You can find the most important information relevant to the entire conference by following these links:
 
