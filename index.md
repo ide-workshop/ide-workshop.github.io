@@ -139,6 +139,7 @@ Please contact me at [yaroslav.golubev@jetbrains.com](mailto:yaroslav.golubev@je
 * [Tommaso Fulcini](https://www.linkedin.com/in/tommaso-fulcini/), Politecnico di Torino
 * [Esther Guerra](http://arantxa.ii.uam.es/~eguerra/), Universidad Autónoma de Madrid
 * [Noopur Gupta](https://www.linkedin.com/in/noopur2507), IBM, Eclipse IDE
+* [Rainer Koschke](https://user.informatik.uni-bremen.de/koschke/), University of Bremen
 * [Niklas Krieger](https://www.linkedin.com/in/niklas-krieger-39774b243/), University of Stuttgart
 * [Juan de Lara](http://arantxa.ii.uam.es/~jlara/), Universidad Autónoma de Madrid
 * [Sarah Nadi](https://sarahnadi.org), New York University Abu Dhabi
