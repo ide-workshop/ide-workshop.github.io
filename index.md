@@ -9,6 +9,7 @@ layout: page
 
 ## News
 
+* **November 11th**: the deadline for submissions is extended to **November 18th**
 * **August 15th**: the [EasyChair](https://easychair.org/my/conference?conf=ide2025) is up
 * **August 15th**: workshop accepted to ICSE'25!
 * **June 15th**: workshop proposal sent to ICSE'25
@@ -116,8 +117,8 @@ The official publication date affects the deadline for any patent filings relate
 
 ### Important dates
 
-* Papers submission deadline: November 11th, 2024
-* Papers acceptance notification: December 1st, 2024
+* Papers submission deadline: ~~November 11th, 2024~~ **November 18th, 2024**
+* Papers acceptance notification: ~~December 1st, 2024~~ December 8th, 2024
 * Camera ready deadline: February 5th, 2025
 
 ## Organizing committee
