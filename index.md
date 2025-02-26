@@ -9,11 +9,30 @@ layout: page
 
 ## News
 
+* **February 5th**: the camera-ready deadline has passed
+* **December 20th**: after major revisions, we are happy to share that all 12 submissions were accepted! Congratulations!
+* **December 8th**: 9 papers were accepted, 3 papers received major revisions
+* **November 18th**: we have received **12 submissions**! Thank you!
 * **November 11th**: the deadline for submissions is extended to **November 18th**
 * **August 15th**: the [EasyChair](https://easychair.org/my/conference?conf=ide2025) is up
 * **August 15th**: workshop accepted to ICSE'25!
 * **June 15th**: workshop proposal sent to ICSE'25
 * **June 15th**: the website is up
+
+## Accepted papers (program is coming soon!)
+
+* **In-IDE Programming Courses: Learning Software Development in a Real-World Setting** — Anastasiia Birillo, Ilya Vlasov (JetBrains Research), Katsiaryna Dzialets (JetBrains), Hieke Keuning (Utrecht University), Timofey Bryksin (JetBrains Research).
+* **A Prototype VS Code Extension to Improve Web Accessible Development** — Elisa Calì, Tommaso Fulcini, Riccardo Coppola, Lorenzo Laudadio, Marco Torchiano (Politecnico di Torino).
+* **Using CognitIDE to Capture Developers’ Cognitive Load via Physiological Activity During Everyday Software Development Tasks** — Fabian Stolp, Charlotte Brandebusemeyer, Franziska Hradilak, Lara Kursawe, Magnus Menger, Franz Sauerwald, Bert Arnrich (Hasso Plattner Institute, University of Potsdam).
+* **Evolving the Computational Notebook: A Two-Dimensional Canvas for Enhanced Human-AI Interaction** — Konstantin Grotov, Dmitry Botov (Neapolis University Paphos).
+* **Enhancing Block Composition: The Role of Category Highlighting in Block-Based Environments** — Niels Kok, Mauricio Verano Merino (Vrije Universiteit Amsterdam).
+* **Trust Calibration in IDEs: Paving the Way for Widespread Adoption of AI Refactoring** — Markus Borg (CodeScene and Lund University).
+* **Rethinking IDE Customization for Enhanced HAX: A Hyperdimensional Perspective** — Roham Koohestani, Maliheh Izadi (Delft University of Technology).
+* **Code Refactoring in Virtual Reality** — Mattia Giannaccari, Marco Raglianti, Michele Lanza (REVEAL @ Software Institute - USI, Lugano, Switzerland).
+* **LLM-Driven Code Refactoring: Opportunities and Limitations** — Jonathan Cordeiro, Shayan Noei, Ying Zou (Queen's University).
+* **IDE Native, Foundation Model Based Agents for Software Refactoring** — Abhiram Bellur (University of Colorado Boulder), Fraol Batole (Tulane University).
+* **A Plugin for Cross-Language Static Analysis for Vulnerability Detection in Android Applications** — Kishanthan Thangarajah, Noble Mathews, Meiyappan Nagappan (University of Waterloo).
+* **Improving Developer Experience for Newbie and Casual Array Programmers** — David Thomas, Will Samadi (Bederra Corporation).
 
 ## About the workshop
 
