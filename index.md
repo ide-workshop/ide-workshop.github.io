@@ -26,23 +26,23 @@ layout: page
 * 09:10–09:50 — **Keynote #1**: TBA.
 * 09:50–10:30 — **Keynote #2**: TBA.
 * 10:30–11:00 — _Coffee break_.
-* 11:00–11:45 — **Session 1.** Visions of the future.
-  * 11:00–11:15 — **In-IDE Programming Courses: Learning Software Development in a Real-World Setting** — Anastasiia Birillo, Ilya Vlasov (JetBrains Research), Katsiaryna Dzialets (JetBrains), Hieke Keuning (Utrecht University), Timofey Bryksin (JetBrains Research).
-  * 11:15–11:30 — **Code Refactoring in Virtual Reality** — Mattia Giannaccari, Marco Raglianti, Michele Lanza (REVEAL @ Software Institute - USI, Lugano, Switzerland).
-  * 11:30–11:45 — **Rethinking IDE Customization for Enhanced HAX: A Hyperdimensional Perspective** — Roham Koohestani, Maliheh Izadi (Delft University of Technology).
-* 11:45–12:30 — **Session 2.** Plugins and applications.
-    * 11:45–12:00 — **Using CognitIDE to Capture Developers’ Cognitive Load via Physiological Activity During Everyday Software Development Tasks** — Fabian Stolp, Charlotte Brandebusemeyer, Franziska Hradilak, Lara Kursawe, Magnus Menger, Franz Sauerwald, Bert Arnrich (Hasso Plattner Institute, University of Potsdam).
-    * 12:00–12:15 — **A Prototype VS Code Extension to Improve Web Accessible Development** — Elisa Calì, Tommaso Fulcini, Riccardo Coppola, Lorenzo Laudadio, Marco Torchiano (Politecnico di Torino).
-    * 12:15–12:30 — **A Plugin for Cross-Language Static Analysis for Vulnerability Detection in Android Applications** — Kishanthan Thangarajah, Noble Mathews, Meiyappan Nagappan (University of Waterloo).
+* 11:00–11:45 — **Session 1. Visions of the future.**
+  * 11:00–11:15 — In-IDE Programming Courses: Learning Software Development in a Real-World Setting — Anastasiia Birillo, Ilya Vlasov (JetBrains Research), Katsiaryna Dzialets (JetBrains), Hieke Keuning (Utrecht University), Timofey Bryksin (JetBrains Research).
+  * 11:15–11:30 — Code Refactoring in Virtual Reality — Mattia Giannaccari, Marco Raglianti, Michele Lanza (REVEAL @ Software Institute - USI, Lugano, Switzerland).
+  * 11:30–11:45 — Rethinking IDE Customization for Enhanced HAX: A Hyperdimensional Perspective — Roham Koohestani, Maliheh Izadi (Delft University of Technology).
+* 11:45–12:30 — **Session 2. Plugins and applications.**
+    * 11:45–12:00 — Using CognitIDE to Capture Developers’ Cognitive Load via Physiological Activity During Everyday Software Development Tasks — Fabian Stolp, Charlotte Brandebusemeyer, Franziska Hradilak, Lara Kursawe, Magnus Menger, Franz Sauerwald, Bert Arnrich (Hasso Plattner Institute, University of Potsdam).
+    * 12:00–12:15 — A Prototype VS Code Extension to Improve Web Accessible Development — Elisa Calì, Tommaso Fulcini, Riccardo Coppola, Lorenzo Laudadio, Marco Torchiano (Politecnico di Torino).
+    * 12:15–12:30 — A Plugin for Cross-Language Static Analysis for Vulnerability Detection in Android Applications — Kishanthan Thangarajah, Noble Mathews, Meiyappan Nagappan (University of Waterloo).
 * 12:30–14:00 — _Lunch_.
-* 14:00–14:45 — **Session 3.** Refactoring and AI.
-    * 14:00–14:15 — **LLM-Driven Code Refactoring: Opportunities and Limitations** — Jonathan Cordeiro, Shayan Noei, Ying Zou (Queen's University).
-    * 14:15–14:30 — **Trust Calibration in IDEs: Paving the Way for Widespread Adoption of AI Refactoring** — Markus Borg (CodeScene and Lund University).
-    * 14:30–14:45 — **IDE Native, Foundation Model Based Agents for Software Refactoring** — Abhiram Bellur (University of Colorado Boulder), Fraol Batole (Tulane University).
-* 14:45–15:30 — **Session 4.** Diversity of environments.
-    * 14:45–15:00 — **Improving Developer Experience for Newbie and Casual Array Programmers** — David Thomas, Will Samadi (Bederra Corporation).
-    * 15:00–15:15 — **Evolving the Computational Notebook: A Two-Dimensional Canvas for Enhanced Human-AI Interaction** — Konstantin Grotov, Dmitry Botov (Neapolis University Paphos).
-    * 15:15–15:30 — **Enhancing Block Composition: The Role of Category Highlighting in Block-Based Environments** — Niels Kok, Mauricio Verano Merino (Vrije Universiteit Amsterdam).
+* 14:00–14:45 — **Session 3. Refactoring and AI.**
+    * 14:00–14:15 — LLM-Driven Code Refactoring: Opportunities and Limitations — Jonathan Cordeiro, Shayan Noei, Ying Zou (Queen's University).
+    * 14:15–14:30 — Trust Calibration in IDEs: Paving the Way for Widespread Adoption of AI Refactoring — Markus Borg (CodeScene and Lund University).
+    * 14:30–14:45 — IDE Native, Foundation Model Based Agents for Software Refactoring — Abhiram Bellur (University of Colorado Boulder), Fraol Batole (Tulane University).
+* 14:45–15:30 — **Session 4. Diversity of environments.**
+    * 14:45–15:00 — Improving Developer Experience for Newbie and Casual Array Programmers — David Thomas, Will Samadi (Bederra Corporation).
+    * 15:00–15:15 — Evolving the Computational Notebook: A Two-Dimensional Canvas for Enhanced Human-AI Interaction — Konstantin Grotov, Dmitry Botov (Neapolis University Paphos).
+    * 15:15–15:30 — Enhancing Block Composition: The Role of Category Highlighting in Block-Based Environments — Niels Kok, Mauricio Verano Merino (Vrije Universiteit Amsterdam).
 * 15:30–16:00 — _Coffee break_.
 * 16:00–17:20 — **Round table discussions and Unconference**, based on participatory planning earlier in the day.
 * 17:20–17:30 — **Closing word** from the organizers.
