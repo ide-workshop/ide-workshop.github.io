@@ -35,7 +35,7 @@ layout: page
     * 12:00–12:15 — **A Prototype VS Code Extension to Improve Web Accessible Development** — Elisa Calì, Tommaso Fulcini, Riccardo Coppola, Lorenzo Laudadio, Marco Torchiano (Politecnico di Torino).
     * 12:15–12:30 — **A Plugin for Cross-Language Static Analysis for Vulnerability Detection in Android Applications** — Kishanthan Thangarajah, Noble Mathews, Meiyappan Nagappan (University of Waterloo).
 * 12:30–14:00 — _Lunch_.
-* 14:00–15:30 — **Session 3.** Refactoring and AI.
+* 14:00–14:45 — **Session 3.** Refactoring and AI.
     * 14:00–14:15 — **LLM-Driven Code Refactoring: Opportunities and Limitations** — Jonathan Cordeiro, Shayan Noei, Ying Zou (Queen's University).
     * 14:15–14:30 — **Trust Calibration in IDEs: Paving the Way for Widespread Adoption of AI Refactoring** — Markus Borg (CodeScene and Lund University).
     * 14:30–14:45 — **IDE Native, Foundation Model Based Agents for Software Refactoring** — Abhiram Bellur (University of Colorado Boulder), Fraol Batole (Tulane University).
