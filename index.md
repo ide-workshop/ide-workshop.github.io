@@ -32,7 +32,7 @@ layout: page
   * 11:30–11:45 — Rethinking IDE Customization for Enhanced HAX: A Hyperdimensional Perspective — Roham Koohestani, Maliheh Izadi (Delft University of Technology).
 * 11:45–12:30 — **Session 2. Plugins and applications.**
     * 11:45–12:00 — [Using CognitIDE to Capture Developers’ Cognitive Load via Physiological Activity During Everyday Software Development Tasks](https://arxiv.org/abs/2503.03537) — Fabian Stolp, Charlotte Brandebusemeyer, Franziska Hradilak, Lara Kursawe, Magnus Menger, Franz Sauerwald, Bert Arnrich (Hasso Plattner Institute, University of Potsdam).
-    * 12:00–12:15 — A Prototype VS Code Extension to Improve Web Accessible Development — Elisa Calì, Tommaso Fulcini, Riccardo Coppola, Lorenzo Laudadio, Marco Torchiano (Politecnico di Torino).
+    * 12:00–12:15 — [A Prototype VS Code Extension to Improve Web Accessible Development](https://arxiv.org/abs/2503.09673) — Elisa Calì, Tommaso Fulcini, Riccardo Coppola, Lorenzo Laudadio, Marco Torchiano (Politecnico di Torino).
     * 12:15–12:30 — A Plugin for Cross-Language Static Analysis for Vulnerability Detection in Android Applications — Kishanthan Thangarajah, Noble Mathews, Meiyappan Nagappan (University of Waterloo).
 * 12:30–14:00 — _Lunch_.
 * 14:00–14:45 — **Session 3. Refactoring and AI.**
@@ -51,7 +51,7 @@ layout: page
 ## Accepted papers
 
 * [**In-IDE Programming Courses: Learning Software Development in a Real-World Setting**](https://arxiv.org/abs/2501.17747) — Anastasiia Birillo, Ilya Vlasov (JetBrains Research), Katsiaryna Dzialets (JetBrains), Hieke Keuning (Utrecht University), Timofey Bryksin (JetBrains Research).
-* **A Prototype VS Code Extension to Improve Web Accessible Development** — Elisa Calì, Tommaso Fulcini, Riccardo Coppola, Lorenzo Laudadio, Marco Torchiano (Politecnico di Torino).
+* [**A Prototype VS Code Extension to Improve Web Accessible Development**](https://arxiv.org/abs/2503.09673) — Elisa Calì, Tommaso Fulcini, Riccardo Coppola, Lorenzo Laudadio, Marco Torchiano (Politecnico di Torino).
 * [**Using CognitIDE to Capture Developers’ Cognitive Load via Physiological Activity During Everyday Software Development Tasks**](https://arxiv.org/abs/2503.03537) — Fabian Stolp, Charlotte Brandebusemeyer, Franziska Hradilak, Lara Kursawe, Magnus Menger, Franz Sauerwald, Bert Arnrich (Hasso Plattner Institute, University of Potsdam).
 * **Evolving the Computational Notebook: A Two-Dimensional Canvas for Enhanced Human-AI Interaction** — Konstantin Grotov, Dmitry Botov (Neapolis University Paphos).
 * [**Enhancing Block Composition: The Role of Category Highlighting in Block-Based Environments**](https://maveme.github.io/assets/pdfs/IDE25_CategoryHighlighting.pdf) — Niels Kok, Mauricio Verano Merino (Vrije Universiteit Amsterdam).
