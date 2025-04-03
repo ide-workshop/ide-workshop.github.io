@@ -53,7 +53,7 @@ layout: page
 
 ### **"Time Travel with IDEs: From Line Editors to AI Copilots"** 
 
-{% include figure.html img="dave.jpg" alt="sponsors" width="20%" %}
+{% include figure.html img="dave.jpg" alt="Dave Thomas" width="20%" %}
 
 by [**Dave Thomas**](https://www.davethomas.net/), CEO of Bedarra Research Labs, creator of Visual Age for Java, Eclipse, and OTI Labs!
 
