@@ -9,6 +9,7 @@ layout: page
 
 ## News
 
+* **April 3rd**: announced the keynote **"Time Travel with IDEs: From Line Editors to AI Copilots"** by [**Dave Thomas**](https://www.davethomas.net/), CEO of Bedarra Research Labs, creator of Visual Age for Java, Eclipse, and OTI Labs!
 * **March 3rd**: the preliminary program is up
 * **February 5th**: the camera-ready deadline has passed
 * **December 20th**: after major revisions, we are happy to share that all 12 submissions were accepted! Congratulations!
@@ -23,7 +24,7 @@ layout: page
 ## Program
 
 * 09:00–09:10 — **Welcoming message** from the organizers.
-* 09:10–09:50 — **Keynote #1**: TBA.
+* 09:10–09:50 — **Keynote #1**: **"Time Travel with IDEs: From Line Editors to AI Copilots"** by [**Dave Thomas**](https://www.davethomas.net/), CEO of Bedarra Research Labs, creator of Visual Age for Java, Eclipse, and OTI Labs.
 * 09:50–10:30 — **Keynote #2**: TBA.
 * 10:30–11:00 — _Coffee break_.
 * 11:00–11:45 — **Session 1. Visions of the future.**
