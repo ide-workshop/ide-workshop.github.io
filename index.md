@@ -49,6 +49,16 @@ layout: page
 * 17:20–17:30 — **Closing word** from the organizers.
 * Evening — **Dinner**, TBA.
 
+## Keynotes
+
+### **"Time Travel with IDEs: From Line Editors to AI Copilots"** 
+
+{% include figure.html img="dave.jpg" alt="sponsors" width="20%" %}
+
+by [**Dave Thomas**](https://www.davethomas.net/), CEO of Bedarra Research Labs, creator of Visual Age for Java, Eclipse, and OTI Labs!
+
+_In 1966, I wrote my first program using punch cards. Today, I watch AI assistants complete my code before I finish typing. The IDE has coevolved from the humble line editor and first interactive programming languages to AI-enabled programming assistants. Dave shares his decades of experiences as a young IDE user, and later a developer and architect of modern commercial IDEs. He discusses the challenges of commercial and open source IDE development. He provides interesting and entertaining behind-the-scenes insights into design and implementation decisions both good and bad._
+
 ## Accepted papers
 
 * [**In-IDE Programming Courses: Learning Software Development in a Real-World Setting**](https://arxiv.org/abs/2501.17747) — Anastasiia Birillo, Ilya Vlasov (JetBrains Research), Katsiaryna Dzialets (JetBrains), Hieke Keuning (Utrecht University), Timofey Bryksin (JetBrains Research).
