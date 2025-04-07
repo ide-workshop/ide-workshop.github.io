@@ -23,6 +23,8 @@ layout: page
 
 ## Program
 
+**Please follow the up-to-date interactive program at [ICSE's website](https://conf.researchr.org/program/icse-2025/program-icse-2025/?track=IDE)!**
+
 * 09:00–09:10 — **Welcoming message** from the organizers.
 * 09:10–09:50 — **Keynote #1**: **"Time Travel with IDEs: From Line Editors to AI Copilots"** by [**Dave Thomas**](https://www.davethomas.net/), CEO of Bedarra Research Labs, creator of Visual Age for Java, Eclipse, and OTI Labs.
 * 09:50–10:30 — **Keynote #2**: TBA.
