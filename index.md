@@ -35,8 +35,8 @@ layout: page
   * 11:30–11:45 — [Rethinking IDE Customization for Enhanced HAX: A Hyperdimensional Perspective](https://arxiv.org/abs/2501.02491) — Roham Koohestani, Maliheh Izadi (Delft University of Technology).
 * 11:45–12:30 — **Session 2. Diversity of environments.**
     * 11:45–12:00 — Improving Developer Experience for Newbie and Casual Array Programmers — David Thomas, Will Samadi (Bederra Corporation).
-    * 12:00–12:15 — [Evolving the Computational Notebook: A Two-Dimensional Canvas for Enhanced Human-AI Interaction](https://arxiv.org/abs/2503.16967) — Konstantin Grotov, Dmitry Botov (Neapolis University Paphos).
-    * 12:15–12:30 — [Enhancing Block Composition: The Role of Category Highlighting in Block-Based Environments](https://maveme.github.io/assets/pdfs/IDE25_CategoryHighlighting.pdf) — Niels Kok, Mauricio Verano Merino (Vrije Universiteit Amsterdam).
+    * 12:00–12:15 — [Enhancing Block Composition: The Role of Category Highlighting in Block-Based Environments](https://maveme.github.io/assets/pdfs/IDE25_CategoryHighlighting.pdf) — Niels Kok, Mauricio Verano Merino (Vrije Universiteit Amsterdam).
+    * 12:15–12:30 — [Evolving the Computational Notebook: A Two-Dimensional Canvas for Enhanced Human-AI Interaction](https://arxiv.org/abs/2503.16967) — Konstantin Grotov, Dmitry Botov (Neapolis University Paphos).
 * 12:30–14:00 — _Lunch_.
 * 14:00–14:45 — **Session 3. Refactoring and AI.**
     * 14:00–14:15 — [LLM-Driven Code Refactoring: Opportunities and Limitations](https://seal-queensu.github.io/publications/pdf/IDE-Jonathan-2025.pdf) — Jonathan Cordeiro, Shayan Noei, Ying Zou (Queen's University).
