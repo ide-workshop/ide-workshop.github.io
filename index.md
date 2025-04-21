@@ -66,6 +66,8 @@ _In 1966, I wrote my first program using punch cards. Today, I watch AI assistan
 
 {% include figure.html img="yaroslav.png" alt="Yaroslav Zharov" width="20%" %}
 
+by [**Yaroslav Zharov**](https://www.linkedin.com/in/yaroslav-zharov/), Head of AI Agents & Planning team at JetBrains Research!
+
 _This talk will cover a brief introduction to AI agents and a set of advice from the practice of developing AI agents in JetBrains IDEs. The talk will provide a useful mind map of the area for those who want to start developing their first AI agents but don't know where to start. For those who have already started, the talk will provide advice from both the trenches and the literature. And for all of them, we hope to provide useful insight into the possibility of collaborating with JetBrains on AI agents in IDEs._
 
 ## Accepted papers
