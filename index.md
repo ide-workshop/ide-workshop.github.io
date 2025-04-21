@@ -9,6 +9,7 @@ layout: page
 
 ## News
 
+* **April 21st**: announced the keynote **"AI Agents Inside the IDE: Possibilities and Practice"** by [**Yaroslav Zharov**](https://www.linkedin.com/in/yaroslav-zharov/), Head of AI Agents & Planning team at JetBrains Research!
 * **April 3rd**: announced the keynote **"Time Travel with IDEs: From Line Editors to AI Copilots"** by [**Dave Thomas**](https://www.davethomas.net/), CEO of Bedarra Research Labs, creator of Visual Age for Java, Eclipse, and OTI Labs!
 * **March 3rd**: the preliminary program is up
 * **February 5th**: the camera-ready deadline has passed
@@ -27,7 +28,7 @@ layout: page
 
 * 09:00–09:10 — **Welcoming message** from the organizers.
 * 09:10–09:50 — **Keynote #1**: **"Time Travel with IDEs: From Line Editors to AI Copilots"** by [**Dave Thomas**](https://www.davethomas.net/), CEO of Bedarra Research Labs, creator of Visual Age for Java, Eclipse, and OTI Labs.
-* 09:50–10:30 — **Keynote #2**: TBA.
+* 09:50–10:30 — **Keynote #2**: **"AI Agents Inside the IDE: Possibilities and Practice"** by [**Yaroslav Zharov**](https://www.linkedin.com/in/yaroslav-zharov/), Head of AI Agents & Planning team at JetBrains Research.
 * 10:30–11:00 — _Coffee break_.
 * 11:00–11:45 — **Session 1. Visions of the future.**
   * 11:00–11:15 — [In-IDE Programming Courses: Learning Software Development in a Real-World Setting](https://arxiv.org/abs/2501.17747) — Anastasiia Birillo, Ilya Vlasov (JetBrains Research), Katsiaryna Dzialets (JetBrains), Hieke Keuning (Utrecht University), Timofey Bryksin (JetBrains Research).
@@ -60,6 +61,12 @@ layout: page
 by [**Dave Thomas**](https://www.davethomas.net/), CEO of Bedarra Research Labs, creator of Visual Age for Java, Eclipse, and OTI Labs!
 
 _In 1966, I wrote my first program using punch cards. Today, I watch AI assistants complete my code before I finish typing. The IDE has coevolved from the humble line editor and first interactive programming languages to AI-enabled programming assistants. Dave shares his decades of experiences as a young IDE user, and later a developer and architect of modern commercial IDEs. He discusses the challenges of commercial and open source IDE development. He provides interesting and entertaining behind-the-scenes insights into design and implementation decisions both good and bad._
+
+### **"AI Agents Inside the IDE: Possibilities and Practice"**
+
+{% include figure.html img="yaroslav.png" alt="Yaroslav Zharov" width="20%" %}
+
+_This talk will cover a brief introduction to AI agents and a set of advice from the practice of developing AI agents in JetBrains IDEs. The talk will provide a useful mind map of the area for those who want to start developing their first AI agents but don't know where to start. For those who have already started, the talk will provide advice from both the trenches and the literature. And for all of them, we hope to provide useful insight into the possibility of collaborating with JetBrains on AI agents in IDEs._
 
 ## Accepted papers
 
