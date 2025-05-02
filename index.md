@@ -46,7 +46,7 @@ layout: page
 * 14:45–15:30 — **Session 4. Plugins and applications.**
     * 14:45–15:00 — [Using CognitIDE to Capture Developers’ Cognitive Load via Physiological Activity During Everyday Software Development Tasks](https://arxiv.org/abs/2503.03537) — Fabian Stolp, Charlotte Brandebusemeyer, Franziska Hradilak, Lara Kursawe, Magnus Menger, Franz Sauerwald, Bert Arnrich (Hasso Plattner Institute, University of Potsdam).
     * 15:00–15:15 — [A Prototype VS Code Extension to Improve Web Accessible Development](https://arxiv.org/abs/2503.09673) — Elisa Calì, Tommaso Fulcini, Riccardo Coppola, Lorenzo Laudadio, Marco Torchiano (Politecnico di Torino).
-    * 15:15–15:30 — A Plugin for Cross-Language Static Analysis for Vulnerability Detection in Android Applications — Kishanthan Thangarajah, Noble Mathews, Meiyappan Nagappan (University of Waterloo).
+    * 15:15–15:30 — [A Plugin for Cross-Language Static Analysis for Vulnerability Detection in Android Applications](https://github.com/uw-swag/pilai-pidi-soruku/blob/main/ICSE_IDE_Workshop_2025_paper11.pdf) — Kishanthan Thangarajah, Noble Mathews, Meiyappan Nagappan (University of Waterloo).
 * 15:30–16:00 — _Coffee break_.
 * 16:00–17:20 — **Round table discussions and Unconference**, based on participatory planning earlier in the day.
 * 17:20–17:30 — **Closing word** from the organizers.
@@ -82,7 +82,7 @@ _This talk will cover a brief introduction to AI agents and a set of advice from
 * [**Code Refactoring in Virtual Reality**](https://mattiagiannaccari.github.io/publications/Giannaccari2025a.pdf) — Mattia Giannaccari, Marco Raglianti, Michele Lanza (REVEAL @ Software Institute - USI, Lugano, Switzerland).
 * [**LLM-Driven Code Refactoring: Opportunities and Limitations**](https://seal-queensu.github.io/publications/pdf/IDE-Jonathan-2025.pdf) — Jonathan Cordeiro, Shayan Noei, Ying Zou (Queen's University).
 * [**IDE Native, Foundation Model Based Agents for Software Refactoring**](https://fraolbatole.github.io/assets/pdf/IDEWorkshopPositionPaper.pdf) — Abhiram Bellur (University of Colorado Boulder), Fraol Batole (Tulane University).
-* **A Plugin for Cross-Language Static Analysis for Vulnerability Detection in Android Applications** — Kishanthan Thangarajah, Noble Mathews, Meiyappan Nagappan (University of Waterloo).
+* [**A Plugin for Cross-Language Static Analysis for Vulnerability Detection in Android Applications**](https://github.com/uw-swag/pilai-pidi-soruku/blob/main/ICSE_IDE_Workshop_2025_paper11.pdf) — Kishanthan Thangarajah, Noble Mathews, Meiyappan Nagappan (University of Waterloo).
 * **Improving Developer Experience for Newbie and Casual Array Programmers** — David Thomas, Will Samadi (Bederra Corporation).
 
 ## About the workshop
