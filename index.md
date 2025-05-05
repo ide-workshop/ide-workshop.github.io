@@ -9,6 +9,7 @@ layout: page
 
 ## News
 
+* **May 3rd**: the workshop took place! **Thank you, everyone!**
 * **April 21st**: announced the keynote **"AI Agents Inside the IDE: Possibilities and Practice"** by [**Yaroslav Zharov**](https://www.linkedin.com/in/yaroslav-zharov/), Head of AI Agents & Planning team at JetBrains Research!
 * **April 3rd**: announced the keynote **"Time Travel with IDEs: From Line Editors to AI Copilots"** by [**Dave Thomas**](https://www.davethomas.net/), CEO of Bedarra Research Labs, creator of Visual Age for Java, Eclipse, and OTI Labs!
 * **March 3rd**: the preliminary program is up
@@ -50,7 +51,7 @@ layout: page
 * 15:30–16:00 — _Coffee break_.
 * 16:00–17:20 — **Round table discussions and Unconference**, based on participatory planning earlier in the day.
 * 17:20–17:30 — **Closing word** from the organizers.
-* Evening — **Dinner**, TBA.
+* 17:30–19:30 — **Dinner** at [JOEY Rideau](https://maps.app.goo.gl/aojV8KXLVJr4yucV6).
 
 ## Keynotes
 
