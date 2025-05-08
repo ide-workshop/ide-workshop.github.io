@@ -7,6 +7,8 @@ layout: page
 
 {% include figure.html img="sponsors.jpg" alt="sponsors" width="80%" %}
 
+{% include figure.html img="ide2025-photo.jpg" alt="photo" width="100%" %}
+
 ## News
 
 * **May 3rd**: the workshop took place! **Thank you, everyone!**
