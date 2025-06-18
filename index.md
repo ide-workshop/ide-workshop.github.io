@@ -98,8 +98,8 @@ The following LaTeX code can be placed at the start of the LaTeX document: `\doc
 
 The IDE workshop employs the **single-blind** review process, _i.e._, you do not need to conceal your identity.
 The workshop accepts:
-* short research papers (up to 6 pages, including references) 
-* and shorter position papers (up to 4 pages, including references, [**free of APC charges**](https://libraries.acm.org/acmopen/article-types)). 
+* **short research papers** (up to 6 pages, including references) 
+* **extended abstracts** (up to 4 pages, including references, [**free of APC charges**](https://libraries.acm.org/acmopen/article-types)). 
 
 Purchases of additional pages in the proceedings are not allowed.
 
