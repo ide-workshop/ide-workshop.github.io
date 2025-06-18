@@ -5,8 +5,6 @@ layout: page
 
 {% include figure.html img="title-2026.jpg" alt="title card" width="100%" %}
 
-[//]: # ({% include figure.html img="sponsors.jpg" alt="sponsors" width="80%" %})
-
 ## News
 
 * **June 23rd**: workshop proposal sent to ICSE'26
