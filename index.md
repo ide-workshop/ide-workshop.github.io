@@ -115,10 +115,10 @@ The official publication date affects the deadline for any patent filings relate
 
 ### Important dates
 
-* Papers submission deadline: October 20th, 2025
+* Papers submission deadline: **October 20th, 2025**
 * Papers acceptance notification:  November 24th, 2025
 * Camera ready deadline: TBA
-* **Workshop**: TBA
+* Workshop: TBA
 
 ## Organizing committee
 
