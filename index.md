@@ -3,7 +3,7 @@ title: The IDE Workshop
 layout: page
 ---
 
-{% include figure.html img="title-2025.jpg" alt="title card" width="100%" %}
+{% include figure.html img="title-2026.jpg" alt="title card" width="100%" %}
 
 {% include figure.html img="sponsors.jpg" alt="sponsors" width="80%" %}
 
