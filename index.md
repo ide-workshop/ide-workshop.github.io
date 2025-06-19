@@ -56,6 +56,7 @@ The topics include, but are not limited to:
 
 * The development of plugins, add-ons, and extensions for IDEs.
 * Integrating prototypes or machine learning models into the IDEs.
+* Using advanced AI, LLMs, AI agents, etc. in the IDEs.
 * Improving various IDE features, such as automated refactorings, quick fixes, etc.
 * Program and static analysis inside the IDE.
 * UI/UX studies of working in the IDE, analyzing the way people use IDEs, their workflow, activities, attention, eye movement, etc.
@@ -131,7 +132,7 @@ The official publication date affects the deadline for any patent filings relate
 ## Program committee
 
 * [Iftekhar Ahmed](https://ics.uci.edu/~iftekha/), University of California, Irvine
-* [Timofey Bryksin](https://jzuken.github.io/), JetBrains
+* [Timofey Bryksin](https://jzuken.github.io/), JetBrains Research
 * [Oshando Johnson](https://www.linkedin.com/in/oshandojohnson/), Fraunhofer IEM
 
 [//]: # (&#40;{% include toc.html %}&#41;)
