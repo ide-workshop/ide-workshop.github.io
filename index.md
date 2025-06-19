@@ -127,13 +127,17 @@ The official publication date affects the deadline for any patent filings relate
 
 **Program chair**: [Danny Dig](http://dig.cs.illinois.edu/), University of Colorado Boulder & JetBrains Research
 
-**Publicity chair**: [Vladimir Kovalenko](vovak.me), JetBrains Research
+**Publicity co-chair**: [Katie Fraser](https://www.linkedin.com/in/katherine-fraser-0739121b0/), JetBrains Research
+
+**Publicity co-chair**: [Vladimir Kovalenko](vovak.me), JetBrains Research
 
 ## Program committee (being formed)
 
 * [Iftekhar Ahmed](https://ics.uci.edu/~iftekha/), University of California, Irvine
 * [Timofey Bryksin](https://jzuken.github.io/), JetBrains Research
+* [Noopur Gupta](https://www.linkedin.com/in/noopur2507), IBM, Eclipse IDE
 * [Oshando Johnson](https://www.linkedin.com/in/oshandojohnson/), Fraunhofer IEM
+* [Goran Piskachev](https://piskachev.github.io), Amazon Web Services
 
 [//]: # (&#40;{% include toc.html %}&#41;)
 
