@@ -129,7 +129,7 @@ The official publication date affects the deadline for any patent filings relate
 
 **Publicity chair**: [Vladimir Kovalenko](vovak.me), JetBrains Research
 
-## Program committee
+## Program committee (being formed)
 
 * [Iftekhar Ahmed](https://ics.uci.edu/~iftekha/), University of California, Irvine
 * [Timofey Bryksin](https://jzuken.github.io/), JetBrains Research
