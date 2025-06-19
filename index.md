@@ -122,7 +122,7 @@ The official publication date affects the deadline for any patent filings relate
 
 ## Organizing committee
 
-**General chair**, main contact person: [Yaroslav Golubev](https://areyde.com/), JetBrains Research. Please contact me at [yaroslav.golubev@jetbrains.com](mailto:yaroslav.golubev@jetbrains.com).
+**General chair**, main contact person: [Yaroslav Golubev](https://areyde.com/), JetBrains Research.<br />Please contact me at [yaroslav.golubev@jetbrains.com](mailto:yaroslav.golubev@jetbrains.com).
 
 **Program chair**: [Danny Dig](http://dig.cs.illinois.edu/), University of Colorado Boulder & JetBrains Research
 
