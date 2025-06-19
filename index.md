@@ -125,18 +125,19 @@ The official publication date affects the deadline for any patent filings relate
 
 **General chair**, main contact person: [Yaroslav Golubev](https://areyde.com/), JetBrains Research.<br />Please contact me at [yaroslav.golubev@jetbrains.com](mailto:yaroslav.golubev@jetbrains.com).
 
-**Program chair**: [Danny Dig](http://dig.cs.illinois.edu/), University of Colorado Boulder & JetBrains Research
+**Program co-chair**: [Danny Dig](http://dig.cs.illinois.edu/), University of Colorado Boulder & JetBrains Research
 
-**Publicity co-chair**: [Katie Fraser](https://www.linkedin.com/in/katherine-fraser-0739121b0/), JetBrains Research
+**Program co-chair**: [Nikolaos Tsantalis](https://users.encs.concordia.ca/~nikolaos/), Concordia University
 
-**Publicity co-chair**: [Vladimir Kovalenko](vovak.me), JetBrains Research
+**Publicity chair**: [Katie Fraser](https://www.linkedin.com/in/katherine-fraser-0739121b0/), JetBrains Research
 
 ## Program committee (being formed)
 
 * [Iftekhar Ahmed](https://ics.uci.edu/~iftekha/), University of California, Irvine
-* [Timofey Bryksin](https://jzuken.github.io/), JetBrains Research
-* [Noopur Gupta](https://www.linkedin.com/in/noopur2507), IBM, Eclipse IDE
+* [Egor Bogomolov](https://www.linkedin.com/in/egor-bogomolov-97ab3a162/?originalSubdomain=nl), JetBrains Research
+* [Noopur Gupta](https://www.linkedin.com/in/noopur2507), Eclipse IDE, IBM
 * [Oshando Johnson](https://www.linkedin.com/in/oshandojohnson/), Fraunhofer IEM
+* [Juan de Lara](http://arantxa.ii.uam.es/~jlara/), Universidad Autónoma de Madrid
 * [Goran Piskachev](https://piskachev.github.io), Amazon Web Services
 
 [//]: # (&#40;{% include toc.html %}&#41;)
