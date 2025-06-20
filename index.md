@@ -135,10 +135,14 @@ The official publication date affects the deadline for any patent filings relate
 
 * [Iftekhar Ahmed](https://ics.uci.edu/~iftekha/), University of California, Irvine
 * [Egor Bogomolov](https://www.linkedin.com/in/egor-bogomolov-97ab3a162/?originalSubdomain=nl), JetBrains Research
+* [Markus Borg](https://mrksbrg.com/), CodeScene
+* [Malinda Dilhara](https://www.linkedin.com/in/malinda-dilhara-7590a546/), Amazon Web Services
 * [Noopur Gupta](https://www.linkedin.com/in/noopur2507), Eclipse IDE, IBM
 * [Oshando Johnson](https://www.linkedin.com/in/oshandojohnson/), Fraunhofer IEM
 * [Juan de Lara](http://arantxa.ii.uam.es/~jlara/), Universidad Autónoma de Madrid
 * [Goran Piskachev](https://piskachev.github.io), Amazon Web Services
+* [David Thomas](https://www.davethomas.net/), Bederra Corporation
+* [Simon Thompson](https://www.kent.ac.uk/school-of-computing/people/3164/thompson-simon), University of Kent & Eötvös Loránd University
 
 [//]: # (&#40;{% include toc.html %}&#41;)
 
