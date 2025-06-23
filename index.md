@@ -133,7 +133,7 @@ The official publication date affects the deadline for any patent filings relate
 
 **Publicity co-chair**: [Mauricio Verano Merino](https://maveme.github.io), Vrije Universiteit Amsterdam
 
-## Program committee (being formed)
+## Program committee
 
 * [Iftekhar Ahmed](https://ics.uci.edu/~iftekha/), University of California, Irvine
 * [Egor Bogomolov](https://www.linkedin.com/in/egor-bogomolov-97ab3a162/?originalSubdomain=nl), JetBrains Research
