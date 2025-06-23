@@ -129,19 +129,24 @@ The official publication date affects the deadline for any patent filings relate
 
 **Program co-chair**: [Nikolaos Tsantalis](https://users.encs.concordia.ca/~nikolaos/), Concordia University
 
-**Publicity chair**: [Katie Fraser](https://www.linkedin.com/in/katherine-fraser-0739121b0/), JetBrains Research
+**Publicity co-chair**: [Katie Fraser](https://www.linkedin.com/in/katherine-fraser-0739121b0/), JetBrains Research
+
+**Publicity co-chair**: [Mauricio Verano Merino](https://maveme.github.io), Vrije Universiteit Amsterdam
 
 ## Program committee (being formed)
 
 * [Iftekhar Ahmed](https://ics.uci.edu/~iftekha/), University of California, Irvine
 * [Egor Bogomolov](https://www.linkedin.com/in/egor-bogomolov-97ab3a162/?originalSubdomain=nl), JetBrains Research
 * [Markus Borg](https://mrksbrg.com/), CodeScene
+* [Charlotte Brandebusemeyer](www.linkedin.com/in/charlotte-brandebusemeyer-32b637263), Hasso Plattner Institute, University of Potsdam
 * [Malinda Dilhara](https://www.linkedin.com/in/malinda-dilhara-7590a546/), Amazon Web Services
 * [Noopur Gupta](https://www.linkedin.com/in/noopur2507), Eclipse IDE, IBM
+* [Maliheh Izadi](https://malihehizadi.github.io/), Delft University of Technology
 * [Oshando Johnson](https://www.linkedin.com/in/oshandojohnson/), Fraunhofer IEM
 * [Juan de Lara](http://arantxa.ii.uam.es/~jlara/), Universidad Autónoma de Madrid
 * [Goran Piskachev](https://piskachev.github.io), Amazon Web Services
-* [David Thomas](https://www.davethomas.net/), Bederra Corporation
+* [Raluca Sauciuc](https://research.google/people/ralucasauciuc/?&type=google), Google LLC, AndroidStudio
+* [Dave Thomas](https://www.davethomas.net/), Bederra Corporation
 * [Simon Thompson](https://www.kent.ac.uk/school-of-computing/people/3164/thompson-simon), University of Kent & Eötvös Loránd University
 
 [//]: # (&#40;{% include toc.html %}&#41;)
