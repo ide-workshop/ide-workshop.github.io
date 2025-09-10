@@ -54,7 +54,7 @@ what it is they look for in research. Let's shape this community together!
 Our target audience includes **both academic researchers and IDE developers from industry**.
 
 **From the research side**, we welcome any contributions that relate to IDEs, in the form of **short 
-research papers** (up to 6 pages, including references, can be fewer) or shorter **extended abstracts** (up to 4 pages, including references, [**free of APC charges**](https://libraries.acm.org/acmopen/article-types)). 
+papers** (up to 6 pages, including references, can be fewer) or shorter **extended abstracts** (up to 4 pages, including references, [**free of APC charges**](https://libraries.acm.org/acmopen/article-types)). 
 The topics include, but are not limited to:
 
 * The development of plugins, add-ons, and extensions for IDEs.
@@ -102,7 +102,7 @@ The following LaTeX code can be placed at the start of the LaTeX document: `\doc
 
 The IDE workshop employs the **single-blind** review process, _i.e._, you do not need to conceal your identity.
 The workshop accepts:
-* **short research papers** (up to 6 pages, including references, can be fewer) 
+* **short papers** (up to 6 pages, including references, can be fewer) 
 * **extended abstracts** (up to 4 pages, including references, [**free of APC charges**](https://libraries.acm.org/acmopen/article-types)). 
 
 Purchases of additional pages in the proceedings are not allowed.
