@@ -7,6 +7,7 @@ layout: page
 
 ## News
 
+* **September 4th**: workshop scheduled for **Saturday**, **April 18th**
 * **July 23rd**: [HotCRP](https://icse2026-ide.hotcrp.com/) opened
 * **July 4th**: workshop accepted to ICSE'26!
 * **June 23rd**: workshop proposal sent to ICSE'26
@@ -53,7 +54,7 @@ what it is they look for in research. Let's shape this community together!
 Our target audience includes **both academic researchers and IDE developers from industry**.
 
 **From the research side**, we welcome any contributions that relate to IDEs, in the form of **short 
-research papers** (up to 6 pages, including references) or shorter **extended abstracts** (up to 4 pages, including references, [**free of APC charges**](https://libraries.acm.org/acmopen/article-types)). 
+research papers** (up to 6 pages, including references, can be fewer) or shorter **extended abstracts** (up to 4 pages, including references, [**free of APC charges**](https://libraries.acm.org/acmopen/article-types)). 
 The topics include, but are not limited to:
 
 * The development of plugins, add-ons, and extensions for IDEs.
@@ -101,7 +102,7 @@ The following LaTeX code can be placed at the start of the LaTeX document: `\doc
 
 The IDE workshop employs the **single-blind** review process, _i.e._, you do not need to conceal your identity.
 The workshop accepts:
-* **short research papers** (up to 6 pages, including references) 
+* **short research papers** (up to 6 pages, including references, can be fewer) 
 * **extended abstracts** (up to 4 pages, including references, [**free of APC charges**](https://libraries.acm.org/acmopen/article-types)). 
 
 Purchases of additional pages in the proceedings are not allowed.
@@ -122,7 +123,7 @@ The official publication date affects the deadline for any patent filings relate
 * Papers submission deadline: **October 20th, 2025**
 * Papers acceptance notification:  November 24th, 2025
 * Camera ready deadline: TBA
-* Workshop: TBA
+* Workshop: April 18th, 2026
 
 ## Organizing committee
 
