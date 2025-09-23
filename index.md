@@ -151,6 +151,7 @@ The official publication date affects the deadline for any patent filings relate
 * [Juan de Lara](http://arantxa.ii.uam.es/~jlara/), Universidad Autónoma de Madrid
 * [Goran Piskachev](https://piskachev.github.io), Amazon Web Services
 * [Raluca Sauciuc](https://research.google/people/ralucasauciuc/?&type=google), Google LLC, AndroidStudio
+* [Saga Rut Sunnevudóttir](https://www.linkedin.com/in/saga-rut-sunnevud%C3%B3ttir-463a941a1/), JetBrains Research
 * [Dave Thomas](https://www.davethomas.net/), Bederra Corporation
 * [Simon Thompson](https://www.kent.ac.uk/school-of-computing/people/3164/thompson-simon), University of Kent & Eötvös Loránd University
 
