@@ -7,6 +7,7 @@ layout: page
 
 ## News
 
+* **October 17th**: the submission deadline extended to **October 27th, 2025**, notification deadline pushed to November 28th, 2025
 * **September 4th**: workshop scheduled for **Saturday**, **April 18th**
 * **July 23rd**: [HotCRP](https://icse2026-ide.hotcrp.com/) opened
 * **July 4th**: workshop accepted to ICSE'26!
@@ -120,9 +121,9 @@ The official publication date affects the deadline for any patent filings relate
 
 ### Important dates
 
-* Papers submission deadline: **October 20th, 2025**
-* Papers acceptance notification:  November 24th, 2025
-* Camera ready deadline: TBA
+* Papers submission deadline: ~~October 20th, 2025~~ **October 27th, 2025**
+* Papers acceptance notification:  ~~November 24th, 2025~~ November 28th, 2025
+* Camera ready deadline: January 26th, 2026
 * Workshop: April 18th, 2026
 
 ## Organizing committee
