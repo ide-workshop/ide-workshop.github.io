@@ -103,7 +103,7 @@ The following LaTeX code can be placed at the start of the LaTeX document: `\doc
 
 The IDE workshop employs the **single-blind** review process, _i.e._, you do not need to conceal your identity.
 The workshop accepts:
-* **short papers** (up to 6 pages, including references, can be fewer). This format might require you to pay the APC charge for ACM open, see [main ICSE page](https://conf.researchr.org/track/icse-2026/icse-2026-research-track#Call-for-Papers) for more information.
+* **short papers** (up to 6 pages, including references, can be fewer). This format might require you to pay the APC charge for ACM Open, please refer to the [main ICSE page](https://conf.researchr.org/track/icse-2026/icse-2026-research-track#Call-for-Papers) for more information.
 * **extended abstracts** (up to 4 pages, including references, [**free of APC charges**](https://libraries.acm.org/acmopen/article-types)). 
 
 Purchases of additional pages in the proceedings are not allowed.
