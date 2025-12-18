@@ -7,6 +7,9 @@ layout: page
 
 ## News
 
+* **December 18th**: the list of accepted papers published at the website
+* **December 8th**: after one major revision, the workshop accepted **11 submissions** (8 short papers and 3 extended abstracts)
+* **October 27th**: the workshop received a total of 11 submissions
 * **October 17th**: the submission deadline extended to **October 27th, 2025**, notification deadline pushed to November 28th, 2025
 * **September 4th**: workshop scheduled for **Saturday**, **April 18th**
 * **July 23rd**: [HotCRP](https://icse2026-ide.hotcrp.com/) opened
@@ -33,6 +36,24 @@ The most important information relevant to the entire conference is available by
 
 * [Venue](https://conf.researchr.org/venue/icse-2026/icse-2026-venue)
 * [Visa and Travel Authorization](https://conf.researchr.org/attending/icse-2026/visa-and-travel-authorization)
+
+## Program
+
+Will be published later!
+
+## Accepted papers
+
+* **MigMate: A VS Code Extension for LLM-based Library Migration of Python Projects** — Matthias Kebede, May Mahmoud, Mohayeminul Islam, Sarah Nadi.
+* **From Detection to Prevention: Explaining Security-Critical Code to Avoid Vulnerabilities** — Ranjith Krishnamurthy, Oshando Johnson, Goran Piskachev, Eric Bodden.
+* **Optimizing an IDE for an Evolving Language Ecosystem** — Adam Welc, Todd Nowacki, Dario Russi, Cameron Swords, Tim Zakian.
+* **SmartDoc: A Context-Aware Agentic Method Comment Generation Plugin** — Vahid Etemadi, Gregorio Robles.
+* **Proto-ML: An IDE for ML Solution Prototyping** — Selin Coban, Miguel Perez, Horst Lichter.
+* **Protecting Private Code in IDE Autocomplete Using Differential Privacy** — Evgeny Grigorenko, David Stanojevic, David Ilic, Egor Bogomolov, Kostadin Cvejoski.
+* **Forecasting Developer Environments with GenAI: A Research Perspective** — Raula Gaikovina Kula, Christoph Treude, Xing Hu, Sebastian Baltes, Earl T. Barr, Kelly Blincoe, Fabio Calefato, Junjie Chen, Marc Cheong, Youmei Fan, Daniel M. German, Marco Gerosa, Jin L.C. Guo, Shinpei Hayashi, Robert Hirschfeld, Reid Holmes, Yintong Huo, Takashi Kobayashi, Michele Lanza, Zhongxin Liu, Olivier Nourry, Nicole Novielli, Denys Poshyvanyk, Shinobu Saito, Kazumasa Shimari, Igor Steinmacher, Mairieli Wessel, Markus Wagner, Annie Vella, Laurie Williams, Xin Xia.
+* **In-IDE Toolkit for Developers of AI-Based Features** — Yaroslav Sokolov, Yury Khudyakov, Lenar Sharipov, Andrei Gasparian, Parth Tiwary, Artem Trofimov.
+* **Detecting UX Smells in Visual Studio Code Using LLMs** — Andres Rodriguez, Juan Cruz Gardey, Alejandra Garrido.
+* **It's Alive! What a Live Object Environment Changes in Software Engineering Practice** — Julián Grigera, Steven Costiou, Juan Cruz Gardey, Stéphane Ducasse.
+* **Control Models for In-IDE Code Completion** — Aral de Moor, Yana Hrynevich, Hleb Badzeika, Vladyslav Furda, Marko Kojic, Artem Savelev, Kostadin Cvejoski, Darya Rovdo, Ekaterina Garanina.
 
 ## Call for submissions
 
