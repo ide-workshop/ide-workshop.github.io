@@ -41,6 +41,17 @@ The most important information relevant to the entire conference is available by
 
 Will be published later!
 
+## Keynotes
+
+### **"Does JetBrains Dream of HAX? Human-AI Experience in the IDE, Today and Tomorrow"**
+
+{% include figure.html img="agnia.png" alt="Agnia Sergeyuk" width="20%" %}
+
+by [**Agnia Sergeyuk**](https://www.davethomas.net/), Team Lead of Human-AI Experience (HAX) Research at JetBrains Research!
+
+_AI tools in software development are changing faster than the research behind them. This talk covers shifts in how developers interact with AI inside the IDE. For each shift, we look at what the research community currently knows, what remains open, and what ongoing JetBrains studies contribute to the picture. The talk will end with explicit research bets on timelines and impact, and a set of questions the field has not yet answered._
+
+
 ## Accepted papers
 
 * **MigMate: A VS Code Extension for LLM-based Library Migration of Python Projects** — Matthias Kebede, May Mahmoud, Mohayeminul Islam, Sarah Nadi.
