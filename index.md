@@ -57,15 +57,18 @@ The most important information relevant to the entire conference is available by
     * 12:00–12:15 — [Detecting UX Smells in Visual Studio Code Using LLMs](https://arxiv.org/abs/2602.22020) — Andres Rodriguez, Juan Cruz Gardey, Alejandra Garrido.
     * 12:15–12:30 — [SmartDoc: A Context-Aware Agentic Method Comment Generation Plugin](https://arxiv.org/abs/2511.00450) — Vahid Etemadi, Gregorio Robles.
 * 12:30–14:00 — _Lunch_.
-* 14:00–14:45 — **Keynote #2**: TBA
+* 14:00–14:45 — **Buffer time** to not stop discussions if needed.
 * 14:45–15:30 — **Session 1b. Reinvisioning IDEs.**
     * 14:45–15:00 — [It's Alive! What a Live Object Environment Changes in Software Engineering Practice](https://arxiv.org/abs/2603.02987) — Julián Grigera, Steven Costiou, Juan Cruz Gardey, Stéphane Ducasse.
     * 15:00–15:15 — [Proto-ML: An IDE for ML Solution Prototyping](https://arxiv.org/abs/2602.21734) — Selin Coban, Miguel Perez, Horst Lichter.
     * 15:15–15:30 — In-IDE Toolkit for Developers of AI-Based Features — Yaroslav Sokolov, Yury Khudyakov, Lenar Sharipov, Andrei Gasparian, Parth Tiwary, Artem Trofimov.
 * 15:30–16:00 — _Coffee break_.
-* 16:00–17:15 — **Round table discussions**, based on participatory planning earlier in the day.
-* 17:15–17:30 — **Closing word** from the organizers.
-* Tentative **dinner** in the evening! 
+* 16:00–17:15 — **Round table discussions**, preliminary topics:
+    * How LLMs are impacting IDE usage
+    * Developer experience in the era of GenAI
+    * What IDE developers need from Research and vice versa
+* 17:15–17:30 — **Awards and closing word** from the organizers.
+* 19:00–22:30 — **Dinner** at [Tourão](https://maps.app.goo.gl/eQm4QAKxmByXJjb17)! 
 
 ## Keynotes
 
