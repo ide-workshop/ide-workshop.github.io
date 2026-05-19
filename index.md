@@ -5,8 +5,11 @@ layout: page
 
 {% include figure.html img="title-2026.jpg" alt="title card" width="100%" %}
 
+{% include figure.html img="ide2026-photo.jpg" alt="photo" width="100%" %}
+
 ## News
 
+* **April 18th**: **the workshop took place!** 🎉
 * **March 8th**: published the first version of the program
 * **February 25th**: announced the keynote **"Does JetBrains Dream of HAX? Human-AI Experience in the IDE, Today and Tomorrow"** by [**Agnia Sergeyuk**](https://www.davethomas.net/), Team Lead of Human-AI Experience (HAX) Research at JetBrains Research
 * **December 18th**: the list of accepted papers published at the website
@@ -47,7 +50,7 @@ The most important information relevant to the entire conference is available by
 * 09:15–10:00 — **Keynote #1**: **"Does JetBrains Dream of HAX? Human-AI Experience in the IDE, Today and Tomorrow"** by [**Agnia Sergeyuk**](https://www.davethomas.net/), Team Lead of Human-AI Experience (HAX) Research at JetBrains Research.
 * 10:00–10:30 — **Session 1a. Reinvisioning IDEs.**
     * 10:00–10:15 — [Forecasting Developer Environments with GenAI: A Research Perspective](https://arxiv.org/abs/2602.07412) — Raula Gaikovina Kula, Christoph Treude, Xing Hu, Sebastian Baltes, Earl T. Barr, Kelly Blincoe, Fabio Calefato, Junjie Chen, Marc Cheong, Youmei Fan, Daniel M. German, Marco Gerosa, Jin L.C. Guo, Shinpei Hayashi, Robert Hirschfeld, Reid Holmes, Yintong Huo, Takashi Kobayashi, Michele Lanza, Zhongxin Liu, Olivier Nourry, Nicole Novielli, Denys Poshyvanyk, Shinobu Saito, Kazumasa Shimari, Igor Steinmacher, Mairieli Wessel, Markus Wagner, Annie Vella, Laurie Williams, Xin Xia.
-    * 10:15–10:30 — Optimizing an IDE for an Evolving Language Ecosystem — Adam Welc, Todd Nowacki, Dario Russi, Cameron Swords, Tim Zakian.
+    * 10:15–10:30 — [Optimizing an IDE for an Evolving Language Ecosystem](https://arxiv.org/abs/2605.16664) — Adam Welc, Todd Nowacki, Dario Russi, Cameron Swords, Tim Zakian.
 * 10:30–11:00 — _Coffee break_.
 * 11:00–12:30 — **Session 2. IDEs as Enablers.**
     * 11:00–11:15 — [MigMate: A VS Code Extension for LLM-based Library Migration of Python Projects](https://arxiv.org/abs/2603.01596) — Matthias Kebede, May Mahmoud, Mohayeminul Islam, Sarah Nadi.
@@ -61,7 +64,7 @@ The most important information relevant to the entire conference is available by
 * 14:45–15:30 — **Session 1b. Reinvisioning IDEs.**
     * 14:45–15:00 — [It's Alive! What a Live Object Environment Changes in Software Engineering Practice](https://arxiv.org/abs/2603.02987) — Julián Grigera, Steven Costiou, Juan Cruz Gardey, Stéphane Ducasse.
     * 15:00–15:15 — [Proto-ML: An IDE for ML Solution Prototyping](https://arxiv.org/abs/2602.21734) — Selin Coban, Miguel Perez, Horst Lichter.
-    * 15:15–15:30 — In-IDE Toolkit for Developers of AI-Based Features — Yaroslav Sokolov, Yury Khudyakov, Lenar Sharipov, Andrei Gasparian, Parth Tiwary, Artem Trofimov.
+    * 15:15–15:30 — [In-IDE Toolkit for Developers of AI-Based Features](https://arxiv.org/abs/2605.14612) — Yaroslav Sokolov, Yury Khudyakov, Lenar Sharipov, Andrei Gasparian, Parth Tiwary, Artem Trofimov.
 * 15:30–16:00 — _Coffee break_.
 * 16:00–17:15 — **Round table discussions**, preliminary topics:
     * How LLMs are impacting IDE usage
@@ -70,7 +73,7 @@ The most important information relevant to the entire conference is available by
 * 17:15–17:30 — **Awards and closing word** from the organizers.
 * 19:00–22:30 — **Dinner** at [Tourão](https://maps.app.goo.gl/eQm4QAKxmByXJjb17)! 
 
-## Keynotes
+## Keynote
 
 ### **"Does JetBrains Dream of HAX? Human-AI Experience in the IDE, Today and Tomorrow"**
 
@@ -85,12 +88,12 @@ _AI tools in software development are changing faster than the research behind t
 
 * [**MigMate: A VS Code Extension for LLM-based Library Migration of Python Projects**](https://arxiv.org/abs/2603.01596) — Matthias Kebede, May Mahmoud, Mohayeminul Islam, Sarah Nadi.
 * [**From Detection to Prevention: Explaining Security-Critical Code to Avoid Vulnerabilities**](https://arxiv.org/abs/2602.00711) — Ranjith Krishnamurthy, Oshando Johnson, Goran Piskachev, Eric Bodden.
-* **Optimizing an IDE for an Evolving Language Ecosystem** — Adam Welc, Todd Nowacki, Dario Russi, Cameron Swords, Tim Zakian.
+* [**Optimizing an IDE for an Evolving Language Ecosystem**](https://arxiv.org/abs/2605.16664) — Adam Welc, Todd Nowacki, Dario Russi, Cameron Swords, Tim Zakian.
 * [**SmartDoc: A Context-Aware Agentic Method Comment Generation Plugin**](https://arxiv.org/abs/2511.00450) — Vahid Etemadi, Gregorio Robles.
 * [**Proto-ML: An IDE for ML Solution Prototyping**](https://arxiv.org/abs/2602.21734) — Selin Coban, Miguel Perez, Horst Lichter.
 * [**Protecting Private Code in IDE Autocomplete Using Differential Privacy**](https://arxiv.org/abs/2601.22935) — Evgeny Grigorenko, David Stanojevic, David Ilic, Egor Bogomolov, Kostadin Cvejoski.
 * [**Forecasting Developer Environments with GenAI: A Research Perspective**](https://arxiv.org/abs/2602.07412) — Raula Gaikovina Kula, Christoph Treude, Xing Hu, Sebastian Baltes, Earl T. Barr, Kelly Blincoe, Fabio Calefato, Junjie Chen, Marc Cheong, Youmei Fan, Daniel M. German, Marco Gerosa, Jin L.C. Guo, Shinpei Hayashi, Robert Hirschfeld, Reid Holmes, Yintong Huo, Takashi Kobayashi, Michele Lanza, Zhongxin Liu, Olivier Nourry, Nicole Novielli, Denys Poshyvanyk, Shinobu Saito, Kazumasa Shimari, Igor Steinmacher, Mairieli Wessel, Markus Wagner, Annie Vella, Laurie Williams, Xin Xia.
-* **In-IDE Toolkit for Developers of AI-Based Features** — Yaroslav Sokolov, Yury Khudyakov, Lenar Sharipov, Andrei Gasparian, Parth Tiwary, Artem Trofimov.
+* [**In-IDE Toolkit for Developers of AI-Based Features**](https://arxiv.org/abs/2605.14612) — Yaroslav Sokolov, Yury Khudyakov, Lenar Sharipov, Andrei Gasparian, Parth Tiwary, Artem Trofimov.
 * [**Detecting UX Smells in Visual Studio Code Using LLMs**](https://arxiv.org/abs/2602.22020) — Andres Rodriguez, Juan Cruz Gardey, Alejandra Garrido.
 * [**It's Alive! What a Live Object Environment Changes in Software Engineering Practice**](https://arxiv.org/abs/2603.02987) — Julián Grigera, Steven Costiou, Juan Cruz Gardey, Stéphane Ducasse.
 * [**Control Models for In-IDE Code Completion**](https://arxiv.org/abs/2601.20223) — Aral de Moor, Yana Hrynevich, Hleb Badzeika, Vladyslav Furda, Marko Kojic, Artem Savelev, Kostadin Cvejoski, Darya Rovdo, Ekaterina Garanina.
