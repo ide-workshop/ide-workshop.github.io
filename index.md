@@ -37,7 +37,7 @@ it is challenging for research to move beyond papers into the everyday practice 
 Since IDEs are among the most widely used tools in developers’ toolkit, they remain a crucial opportunity 
 for research to reach this goal. To close the gap between research and adoption in practice, 
 we launched the IDE workshop series. We build upon the momentum from our first three editions of the workshop and aim 
-to exceed expectations at our third instance at ICSE'27.
+to exceed expectations at our fourth instance at ICSE'27.
 
 At our workshop, we aim to bring together researchers and practitioners, and foster the community that really _cares_
 about IDEs. The researchers can exchange their ideas about using IDEs as a means for their work, as well as
@@ -98,7 +98,7 @@ The following LaTeX code can be placed at the start of the LaTeX document: `\doc
 
 The IDE workshop employs the **single-blind** review process, _i.e._, you do not need to conceal your identity.
 The workshop accepts:
-* **short papers** (up to 6 pages, including references, can be fewer). This format might require you to pay the APC charge for ACM Open, please refer to the [main ICSE page](https://conf.researchr.org/track/icse-2026/icse-2026-research-track#Call-for-Papers) for more information.
+* **short papers** (up to 6 pages, including references, can be fewer). 
 * **extended abstracts** (up to 4 pages, including references). 
 
 Purchases of additional pages in the proceedings are not allowed.
