@@ -3,32 +3,20 @@ title: The IDE Workshop
 layout: page
 ---
 
-{% include figure.html img="title-2026.jpg" alt="title card" width="100%" %}
-
-{% include figure.html img="ide2026-photo.jpg" alt="photo" width="100%" %}
+{% include figure.html img="title-2027.jpg" alt="title card" width="100%" %}
 
 ## News
 
-* **June 1st**: [proceedings](https://dl.acm.org/doi/proceedings/10.1145/3786151) published
-* **April 18th**: **the workshop took place!** 🎉
-* **March 8th**: published the first version of the program
-* **February 25th**: announced the keynote **"Does JetBrains Dream of HAX? Human-AI Experience in the IDE, Today and Tomorrow"** by [**Agnia Sergeyuk**](https://www.davethomas.net/), Team Lead of Human-AI Experience (HAX) Research at JetBrains Research
-* **December 18th**: the list of accepted papers published at the website
-* **December 8th**: after one major revision, the workshop accepted **11 submissions** (8 short papers and 3 extended abstracts)
-* **October 27th**: the workshop received a total of 11 submissions
-* **October 17th**: the submission deadline extended to **October 27th, 2025**, notification deadline pushed to November 28th, 2025
-* **September 4th**: workshop scheduled for **Saturday**, **April 18th**
-* **July 23rd**: [HotCRP](https://icse2026-ide.hotcrp.com/) opened
-* **July 4th**: workshop accepted to ICSE'26!
-* **June 23rd**: workshop proposal sent to ICSE'26
-* **June 23rd**: the website is up
+* **June 12th**: workshop proposal sent to ICSE'27
+* **June 12th**: the website is up
 
 ## About the workshop
 
-The 3rd International Workshop on Integrated Development Environments (the IDE Workshop) is the prime venue for uniting researchers
+The 4th International Workshop on Integrated Development Environments (the IDE Workshop) is the prime venue for uniting researchers
 and practitioners in their shared passion for IDEs and developers' productivity. 
-The previous editions of the workshop ([IDE'24](https://ide-workshop.github.io/content/ide-2024.html) 
-and [IDE'25](https://ide-workshop.github.io/content/ide-2025.html)) attracted many papers and
+The previous editions of the workshop ([IDE'24](https://ide-workshop.github.io/content/ide-2024.html), 
+[IDE'25](https://ide-workshop.github.io/content/ide-2025.html) and
+[IDE'26](https://ide-workshop.github.io/content/ide-2026.html)) attracted many papers and
 resulted in fantastic discussions! In our post-workshop survey, the participants commented
 on the value they received, saying:
 * _"A lot of meaningful connections, including academy-to-industry,
@@ -37,67 +25,10 @@ on the value they received, saying:
   discussing the topics more interesting"_.
 
 You can find a more detailed list
-of topics of interest in the _Call for submissions_ below. The workshop is co-located with [ICSE'26](https://conf.researchr.org/home/icse-2026).
+of topics of interest in the _Call for submissions_ below. The workshop is co-located with [ICSE'27](https://conf.researchr.org/home/icse-2027).
 The most important information relevant to the entire conference is available by following these links:
 
-* [Venue](https://conf.researchr.org/venue/icse-2026/icse-2026-venue)
-* [Visa and Travel Authorization](https://conf.researchr.org/attending/icse-2026/visa-and-travel-authorization)
-
-## Program
-
-**Please follow the up-to-date interactive program at [ICSE's website](https://conf.researchr.org/program/icse-2026/program-icse-2026/?track=IDE)!**
-
-* 09:00–09:15 — **Welcoming message** from the organizers.
-* 09:15–10:00 — **Keynote #1**: **"Does JetBrains Dream of HAX? Human-AI Experience in the IDE, Today and Tomorrow"** by [**Agnia Sergeyuk**](https://www.davethomas.net/), Team Lead of Human-AI Experience (HAX) Research at JetBrains Research.
-* 10:00–10:30 — **Session 1a. Reinvisioning IDEs.**
-    * 10:00–10:15 — [Forecasting Developer Environments with GenAI: A Research Perspective](https://arxiv.org/abs/2602.07412) — Raula Gaikovina Kula, Christoph Treude, Xing Hu, Sebastian Baltes, Earl T. Barr, Kelly Blincoe, Fabio Calefato, Junjie Chen, Marc Cheong, Youmei Fan, Daniel M. German, Marco Gerosa, Jin L.C. Guo, Shinpei Hayashi, Robert Hirschfeld, Reid Holmes, Yintong Huo, Takashi Kobayashi, Michele Lanza, Zhongxin Liu, Olivier Nourry, Nicole Novielli, Denys Poshyvanyk, Shinobu Saito, Kazumasa Shimari, Igor Steinmacher, Mairieli Wessel, Markus Wagner, Annie Vella, Laurie Williams, Xin Xia.
-    * 10:15–10:30 — [Optimizing an IDE for an Evolving Language Ecosystem](https://arxiv.org/abs/2605.16664) — Adam Welc, Todd Nowacki, Dario Russi, Cameron Swords, Tim Zakian.
-* 10:30–11:00 — _Coffee break_.
-* 11:00–12:30 — **Session 2. IDEs as Enablers.**
-    * 11:00–11:15 — [MigMate: A VS Code Extension for LLM-based Library Migration of Python Projects](https://arxiv.org/abs/2603.01596) — Matthias Kebede, May Mahmoud, Mohayeminul Islam, Sarah Nadi.
-    * 11:15–11:30 — [Protecting Private Code in IDE Autocomplete Using Differential Privacy](https://arxiv.org/abs/2601.22935) — Evgeny Grigorenko, David Stanojevic, David Ilic, Egor Bogomolov, Kostadin Cvejoski.
-    * 11:30–11:45 — [Control Models for In-IDE Code Completion](https://arxiv.org/abs/2601.20223) — Aral de Moor, Yana Hrynevich, Hleb Badzeika, Vladyslav Furda, Marko Kojic, Artem Savelev, Kostadin Cvejoski, Darya Rovdo, Ekaterina Garanina.
-    * 11:45–12:00 — [From Detection to Prevention: Explaining Security-Critical Code to Avoid Vulnerabilities](https://arxiv.org/abs/2602.00711) — Ranjith Krishnamurthy, Oshando Johnson, Goran Piskachev, Eric Bodden.
-    * 12:00–12:15 — [Detecting UX Smells in Visual Studio Code Using LLMs](https://arxiv.org/abs/2602.22020) — Andres Rodriguez, Juan Cruz Gardey, Alejandra Garrido.
-    * 12:15–12:30 — [SmartDoc: A Context-Aware Agentic Method Comment Generation Plugin](https://arxiv.org/abs/2511.00450) — Vahid Etemadi, Gregorio Robles.
-* 12:30–14:00 — _Lunch_.
-* 14:00–14:45 — **Buffer time** to not stop discussions if needed.
-* 14:45–15:30 — **Session 1b. Reinvisioning IDEs.**
-    * 14:45–15:00 — [It's Alive! What a Live Object Environment Changes in Software Engineering Practice](https://arxiv.org/abs/2603.02987) — Julián Grigera, Steven Costiou, Juan Cruz Gardey, Stéphane Ducasse.
-    * 15:00–15:15 — [Proto-ML: An IDE for ML Solution Prototyping](https://arxiv.org/abs/2602.21734) — Selin Coban, Miguel Perez, Horst Lichter.
-    * 15:15–15:30 — [In-IDE Toolkit for Developers of AI-Based Features](https://arxiv.org/abs/2605.14612) — Yaroslav Sokolov, Yury Khudyakov, Lenar Sharipov, Andrei Gasparian, Parth Tiwary, Artem Trofimov.
-* 15:30–16:00 — _Coffee break_.
-* 16:00–17:15 — **Round table discussions**, preliminary topics:
-    * How LLMs are impacting IDE usage
-    * Developer experience in the era of GenAI
-    * What IDE developers need from Research and vice versa
-* 17:15–17:30 — **Awards and closing word** from the organizers.
-* 19:00–22:30 — **Dinner** at [Tourão](https://maps.app.goo.gl/eQm4QAKxmByXJjb17)! 
-
-## Keynote
-
-### **"Does JetBrains Dream of HAX? Human-AI Experience in the IDE, Today and Tomorrow"**
-
-{% include figure.html img="agnia.png" alt="Agnia Sergeyuk" width="20%" %}
-
-by [**Agnia Sergeyuk**](https://www.davethomas.net/), Team Lead of Human-AI Experience (HAX) Research at JetBrains Research!
-
-_AI tools in software development are changing faster than the research behind them. This talk covers shifts in how developers interact with AI inside the IDE. For each shift, we look at what the research community currently knows, what remains open, and what ongoing JetBrains studies contribute to the picture. The talk will end with explicit research bets on timelines and impact, and a set of questions the field has not yet answered._
-
-
-## Accepted papers
-
-* [**MigMate: A VS Code Extension for LLM-based Library Migration of Python Projects**](https://arxiv.org/abs/2603.01596) — Matthias Kebede, May Mahmoud, Mohayeminul Islam, Sarah Nadi.
-* [**From Detection to Prevention: Explaining Security-Critical Code to Avoid Vulnerabilities**](https://arxiv.org/abs/2602.00711) — Ranjith Krishnamurthy, Oshando Johnson, Goran Piskachev, Eric Bodden.
-* [**Optimizing an IDE for an Evolving Language Ecosystem**](https://arxiv.org/abs/2605.16664) — Adam Welc, Todd Nowacki, Dario Russi, Cameron Swords, Tim Zakian.
-* [**SmartDoc: A Context-Aware Agentic Method Comment Generation Plugin**](https://arxiv.org/abs/2511.00450) — Vahid Etemadi, Gregorio Robles.
-* [**Proto-ML: An IDE for ML Solution Prototyping**](https://arxiv.org/abs/2602.21734) — Selin Coban, Miguel Perez, Horst Lichter.
-* [**Protecting Private Code in IDE Autocomplete Using Differential Privacy**](https://arxiv.org/abs/2601.22935) — Evgeny Grigorenko, David Stanojevic, David Ilic, Egor Bogomolov, Kostadin Cvejoski.
-* [**Forecasting Developer Environments with GenAI: A Research Perspective**](https://arxiv.org/abs/2602.07412) — Raula Gaikovina Kula, Christoph Treude, Xing Hu, Sebastian Baltes, Earl T. Barr, Kelly Blincoe, Fabio Calefato, Junjie Chen, Marc Cheong, Youmei Fan, Daniel M. German, Marco Gerosa, Jin L.C. Guo, Shinpei Hayashi, Robert Hirschfeld, Reid Holmes, Yintong Huo, Takashi Kobayashi, Michele Lanza, Zhongxin Liu, Olivier Nourry, Nicole Novielli, Denys Poshyvanyk, Shinobu Saito, Kazumasa Shimari, Igor Steinmacher, Mairieli Wessel, Markus Wagner, Annie Vella, Laurie Williams, Xin Xia.
-* [**In-IDE Toolkit for Developers of AI-Based Features**](https://arxiv.org/abs/2605.14612) — Yaroslav Sokolov, Yury Khudyakov, Lenar Sharipov, Andrei Gasparian, Parth Tiwary, Artem Trofimov.
-* [**Detecting UX Smells in Visual Studio Code Using LLMs**](https://arxiv.org/abs/2602.22020) — Andres Rodriguez, Juan Cruz Gardey, Alejandra Garrido.
-* [**It's Alive! What a Live Object Environment Changes in Software Engineering Practice**](https://arxiv.org/abs/2603.02987) — Julián Grigera, Steven Costiou, Juan Cruz Gardey, Stéphane Ducasse.
-* [**Control Models for In-IDE Code Completion**](https://arxiv.org/abs/2601.20223) — Aral de Moor, Yana Hrynevich, Hleb Badzeika, Vladyslav Furda, Marko Kojic, Artem Savelev, Kostadin Cvejoski, Darya Rovdo, Ekaterina Garanina.
+* [Venue](https://conf.researchr.org/venue/icse-2027/icse-2027-venue)
 
 ## Call for submissions
 
@@ -138,7 +69,6 @@ testing, debugging, etc.) using IDEs.
 what the blockers were, and how the IDEs can improve to become more convenient for prototyping.
 * And others!
 
-
 **From industry**, we invite the developers of IDEs to share:
 
 * What exactly they are looking for in contributions from the research community.
@@ -162,9 +92,9 @@ lives of software developers!
 ### Submission process
 
 The information about the paper template and the relevant ACM/IEEE policies can be found on the 
-[main ICSE page with submission information](https://conf.researchr.org/track/icse-2026/icse-2026-research-track#submission-process).
-Submissions must conform to the [ACM Proceedings Template page](https://www.acm.org/publications/proceedings-template).
-The following LaTeX code can be placed at the start of the LaTeX document: `\documentclass[sigconf,review]{acmart}`.
+[main ICSE page with submission information](https://conf.researchr.org/track/icse-2027/icse-2027-research-track#submission-process).
+Submissions must conform to the [IEEE conference proceedings template](https://www.ieee.org/conferences/publishing/templates).
+The following LaTeX code can be placed at the start of the LaTeX document: `\documentclass[10pt,conference]{IEEEtran}`.
 
 The IDE workshop employs the **single-blind** review process, _i.e._, you do not need to conceal your identity.
 The workshop accepts:
@@ -173,29 +103,30 @@ The workshop accepts:
 
 Purchases of additional pages in the proceedings are not allowed.
 
-Papers must be submitted electronically by the defined deadline (see important dates below) on **HotCrp**: [**https://icse2026-ide.hotcrp.com/**](https://icse2026-ide.hotcrp.com/). 
+Papers must be submitted electronically by the defined deadline (see important dates below) on **HotCrp**: **TBA**. 
 
-If your paper is accepted, the list of authors cannot be changed but mistakes in the author names can be fixed. Titles can be changed with the approval of the program chairs.
+If your paper is accepted, the list of authors cannot be changed but mistakes in the author names can be fixed. 
+Titles can be changed with the approval of the program chairs.
 At least one author of each accepted paper should register for the
 workshop and present the paper at the workshop. If you have any questions, do not hesitate to contact
 the general chair for any inquiries (see contacts below).
 
 The official publication date is the date the proceedings are made available in the ACM or IEEE Digital Libraries. 
-This date may be up to two weeks prior to the first day of ICSE 2026. 
+This date may be up to two weeks prior to the first day of ICSE 2027. 
 The official publication date affects the deadline for any patent filings related to published work.
 
 ### Important dates
 
-* Papers submission deadline: ~~October 20th, 2025~~ **October 27th, 2025**
-* Papers acceptance notification:  ~~November 24th, 2025~~ November 28th, 2025
-* Camera ready deadline: January 26th, 2026
-* Workshop: April 18th, 2026
+* Papers submission deadline: **November 27th, 2026**
+* Papers acceptance notification: December 11th, 2026
+* Camera ready deadline: January 29th, 2027
+* Workshop: TBA
 
 ## Organizing committee
 
 **General chair**, main contact person: [Yaroslav Golubev](https://areyde.com/), JetBrains Research.<br />Please contact me at [yaroslav.golubev@jetbrains.com](mailto:yaroslav.golubev@jetbrains.com).
 
-**Program co-chair**: [Danny Dig](http://dig.cs.illinois.edu/), University of Colorado Boulder & JetBrains Research
+**Program co-chair**: [Danny Dig](http://dig.cs.illinois.edu/), University of Colorado Boulder
 
 **Program co-chair**: [Nikolaos Tsantalis](https://users.encs.concordia.ca/~nikolaos/), Concordia University
 
@@ -205,21 +136,7 @@ The official publication date affects the deadline for any patent filings relate
 
 ## Program committee
 
-* [Iftekhar Ahmed](https://ics.uci.edu/~iftekha/), University of California, Irvine
-* [Egor Bogomolov](https://www.linkedin.com/in/egor-bogomolov-97ab3a162/?originalSubdomain=nl), JetBrains Research
-* [Markus Borg](https://mrksbrg.com/), CodeScene
-* [Charlotte Brandebusemeyer](www.linkedin.com/in/charlotte-brandebusemeyer-32b637263), Hasso Plattner Institute, University of Potsdam
-* [Malinda Dilhara](https://www.linkedin.com/in/malinda-dilhara-7590a546/), Amazon Web Services
-* [Noopur Gupta](https://www.linkedin.com/in/noopur2507), Eclipse IDE, IBM
-* [Maliheh Izadi](https://malihehizadi.github.io/), Delft University of Technology
-* [Oshando Johnson](https://www.linkedin.com/in/oshandojohnson/), Fraunhofer IEM
-* [Rainer Koschke](https://www.uni-bremen.de/st/kontakt), University of Bremen
-* [Juan de Lara](http://arantxa.ii.uam.es/~jlara/), Universidad Autónoma de Madrid
-* [Goran Piskachev](https://piskachev.github.io), Amazon Web Services
-* [Raluca Sauciuc](https://research.google/people/ralucasauciuc/?&type=google), Google LLC, AndroidStudio
-* [Saga Rut Sunnevudóttir](https://www.linkedin.com/in/saga-rut-sunnevud%C3%B3ttir-463a941a1/), JetBrains Research
-* [Dave Thomas](https://www.davethomas.net/), Bederra Corporation
-* [Simon Thompson](https://www.kent.ac.uk/school-of-computing/people/3164/thompson-simon), University of Kent & Eötvös Loránd University
+TBA
 
 [//]: # (&#40;{% include toc.html %}&#41;)
 
