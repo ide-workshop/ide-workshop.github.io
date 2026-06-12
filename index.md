@@ -134,6 +134,8 @@ The official publication date affects the deadline for any patent filings relate
 
 **Publicity co-chair**: [Mauricio Verano Merino](https://maveme.github.io), Vrije Universiteit Amsterdam
 
+**Vision & Outreach chair**: [Vladimir Kovalenko](https://www.linkedin.com/in/vladimir-kovalenko-01416b88/), JetBrains Research
+
 ## Program committee
 
 TBA
