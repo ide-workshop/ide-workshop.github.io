@@ -15,7 +15,7 @@ layout: page
 The 4th International Workshop on Integrated Development Environments (the IDE Workshop) is the prime venue for uniting researchers
 and practitioners in their shared passion for IDEs and developers' productivity. 
 The previous editions of the workshop ([IDE'24](https://ide-workshop.github.io/content/ide-2024.html), 
-[IDE'25](https://ide-workshop.github.io/content/ide-2025.html) and
+[IDE'25](https://ide-workshop.github.io/content/ide-2025.html), and
 [IDE'26](https://ide-workshop.github.io/content/ide-2026.html)) attracted many papers and
 resulted in fantastic discussions! In our post-workshop survey, the participants commented
 on the value they received, saying:
@@ -36,8 +36,8 @@ Despite the desire of the research community to improve the productivity of soft
 it is challenging for research to move beyond papers into the everyday practice of software development. 
 Since IDEs are among the most widely used tools in developers’ toolkit, they remain a crucial opportunity 
 for research to reach this goal. To close the gap between research and adoption in practice, 
-we launched the IDE workshop series. We build upon the momentum from our first two editions of the workshop and aim 
-to exceed expectations at our third instance at ICSE'26.
+we launched the IDE workshop series. We build upon the momentum from our first three editions of the workshop and aim 
+to exceed expectations at our third instance at ICSE'27.
 
 At our workshop, we aim to bring together researchers and practitioners, and foster the community that really _cares_
 about IDEs. The researchers can exchange their ideas about using IDEs as a means for their work, as well as
@@ -51,7 +51,7 @@ what it is they look for in research. Let's shape this community together!
 Our target audience includes **both academic researchers and IDE developers from industry**.
 
 **From the research side**, we welcome any contributions that relate to IDEs, in the form of **short 
-papers** (up to 6 pages, including references, can be fewer) or shorter **extended abstracts** (up to 4 pages, including references, [**free of APC charges**](https://libraries.acm.org/acmopen/article-types)). 
+papers** (up to 6 pages, including references, can be fewer) or shorter **extended abstracts** (up to 4 pages, including references). 
 The topics include, but are not limited to:
 
 * The development of plugins, add-ons, and extensions for IDEs.
@@ -81,8 +81,8 @@ IDEs can improve.
 
 We want to foster an inclusive community that is welcoming not only established academic researchers but also 
 industry participants who might not be familiar with writing academic papers. Thus, we invite IDE builders to 
-contribute short **extended abstracts** (up to 4 pages, including references, [**free of APC charges**](https://libraries.acm.org/acmopen/article-types)) in free form, 
-and we ourselves can help with their formatting.
+contribute short **extended abstracts** (up to 4 pages, including references) in free form, 
+and **we ourselves can help with their formatting**.
 
 We invited developers and project managers of several IDEs (IntelliJ, Visual Studio, Eclipse, NetBeans, VS Code, 
 AndroidStudio, etc.) to foster a fruitful discussion that can result in practical collaborations. Please join us, 
