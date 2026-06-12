@@ -52,8 +52,8 @@ Our target audience includes **both academic researchers and IDE developers from
 
 **From the research side**, we welcome any contributions that relate to IDEs, in the form of **short 
 papers** (up to 6 pages, including references, can be fewer) or shorter **extended abstracts** (up to 4 pages, including references). 
-The topics include, but are not limited to:
 
+The topics include, but are not limited to:
 * The development of plugins, add-ons, and extensions for IDEs.
 * Integrating prototypes or machine learning models into the IDEs.
 * Using advanced AI, LLMs, AI agents, etc. in the IDEs.
