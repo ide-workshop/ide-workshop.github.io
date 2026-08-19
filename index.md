@@ -7,6 +7,8 @@ layout: page
 
 ## News
 
+* **August 20th**: HotCRP open: [https://icse2027-ide.hotcrp.com/](https://icse2027-ide.hotcrp.com/)
+* **July 25th**: workshop accepted!
 * **June 12th**: workshop proposal sent to ICSE'27
 * **June 12th**: the website is up
 
@@ -103,7 +105,7 @@ The workshop accepts:
 
 Purchases of additional pages in the proceedings are not allowed.
 
-Papers must be submitted electronically by the defined deadline (see important dates below) on **HotCrp**: **TBA**. 
+Papers must be submitted electronically by the defined deadline (see important dates below) on **HotCrp**: **[https://icse2027-ide.hotcrp.com/](https://icse2027-ide.hotcrp.com/)**. 
 
 If your paper is accepted, the list of authors cannot be changed but mistakes in the author names can be fixed. 
 Titles can be changed with the approval of the program chairs.
