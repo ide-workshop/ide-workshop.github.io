@@ -140,7 +140,10 @@ The official publication date affects the deadline for any patent filings relate
 
 ## Program committee
 
-TBA
+* [Satish Karlapudi](https://www.linkedin.com/in/satish-kumar-karlapudi/), Oracle
+* [Aishanee Shah](https://www.linkedin.com/in/aishanee/), Google
+
+More coming!
 
 [//]: # (&#40;{% include toc.html %}&#41;)
 
