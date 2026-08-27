@@ -140,6 +140,7 @@ The official publication date affects the deadline for any patent filings relate
 
 ## Program committee
 
+* [Malinda Dilhara](https://www.linkedin.com/in/malinda-dilhara-7590a546/), Amazon Web Services
 * [Satish Karlapudi](https://www.linkedin.com/in/satish-kumar-karlapudi/), Oracle
 * [Aishanee Shah](https://www.linkedin.com/in/aishanee/), Google
 
