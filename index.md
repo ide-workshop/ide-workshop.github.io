@@ -140,9 +140,17 @@ The official publication date affects the deadline for any patent filings relate
 
 ## Program committee
 
+* [Carolin Brandt](https://carolin-brandt.de/), TU Delft
+* [Selin Coban](https://swc-rwth.de/team/selin-coban/), RWTH Aachen University
 * [Malinda Dilhara](https://www.linkedin.com/in/malinda-dilhara-7590a546/), Amazon Web Services
+* [Julián Grigera](https://www.linkedin.com/in/juli%C3%A1n-grigera-b400927/), LIFIA, Universidad Nacional de La Plata
+* [Noopur Gupta](https://www.linkedin.com/in/noopur2507), Eclipse IDE, IBM
 * [Satish Karlapudi](https://www.linkedin.com/in/satish-kumar-karlapudi/), Oracle
+* [Goran Piskachev](https://piskachev.github.io), Amazon Web Services
 * [Aishanee Shah](https://www.linkedin.com/in/aishanee/), Google
+* [Simon Thompson](https://www.kent.ac.uk/school-of-computing/people/3164/thompson-simon), University of Kent & Eötvös Loránd University
+* [Christoph Treude](https://ctreude.ca/), Singapore Management University
+* [Adam Welc](http://www.adamwelc.org/), Mysten Labs
 
 More coming!
 
