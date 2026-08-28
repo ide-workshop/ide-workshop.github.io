@@ -5,6 +5,8 @@ layout: page
 
 {% include figure.html img="title-2027.jpg" alt="title card" width="100%" %}
 
+_You can find all papers published at the previous editions of the IDE Workshop in our **[Google Scholar](https://scholar.google.com/citations?user=tWALly8AAAAJ)**_.
+
 ## News
 
 * **August 20th**: HotCRP open: [https://icse2027-ide.hotcrp.com/](https://icse2027-ide.hotcrp.com/)
