@@ -147,6 +147,7 @@ The official publication date affects the deadline for any patent filings relate
 * [Malinda Dilhara](https://www.linkedin.com/in/malinda-dilhara-7590a546/), Amazon Web Services
 * [Julián Grigera](https://www.linkedin.com/in/juli%C3%A1n-grigera-b400927/), LIFIA, Universidad Nacional de La Plata
 * [Noopur Gupta](https://www.linkedin.com/in/noopur2507), Eclipse IDE, IBM
+* [Oshando Johnson](https://www.linkedin.com/in/oshandojohnson/), Fraunhofer IEM
 * [Satish Karlapudi](https://www.linkedin.com/in/satish-kumar-karlapudi/), Oracle
 * [Sarah Nadi](https://sarahnadi.org), New York University Abu Dhabi
 * [Goran Piskachev](https://piskachev.github.io), Amazon Web Services
