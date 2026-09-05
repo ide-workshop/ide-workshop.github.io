@@ -151,6 +151,7 @@ The official publication date affects the deadline for any patent filings relate
 * [Satish Karlapudi](https://www.linkedin.com/in/satish-kumar-karlapudi/), Oracle
 * [Sarah Nadi](https://sarahnadi.org), New York University Abu Dhabi
 * [Goran Piskachev](https://piskachev.github.io), Amazon Web Services
+* [Gregorio Robles](https://gsyc.urjc.es/~grex/), Universidad Rey Juan Carlos
 * [Aishanee Shah](https://www.linkedin.com/in/aishanee/), Google
 * [Simon Thompson](https://www.kent.ac.uk/school-of-computing/people/3164/thompson-simon), University of Kent & Eötvös Loránd University
 * [Christoph Treude](https://ctreude.ca/), Singapore Management University
