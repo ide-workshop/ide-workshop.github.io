@@ -145,6 +145,7 @@ The official publication date affects the deadline for any patent filings relate
 * [Carolin Brandt](https://carolin-brandt.de/), TU Delft
 * [Selin Coban](https://swc-rwth.de/team/selin-coban/), RWTH Aachen University
 * [Malinda Dilhara](https://www.linkedin.com/in/malinda-dilhara-7590a546/), Amazon Web Services
+* [Nikita Dukin](https://www.linkedin.com/in/nikitadukin/), JetBrains Research
 * [Julián Grigera](https://www.linkedin.com/in/juli%C3%A1n-grigera-b400927/), LIFIA, Universidad Nacional de La Plata
 * [Noopur Gupta](https://www.linkedin.com/in/noopur2507), Eclipse IDE, IBM
 * [Oshando Johnson](https://www.linkedin.com/in/oshandojohnson/), Fraunhofer IEM
@@ -154,6 +155,7 @@ The official publication date affects the deadline for any patent filings relate
 * [Goran Piskachev](https://piskachev.github.io), Amazon Web Services
 * [Gregorio Robles](https://gsyc.urjc.es/~grex/), Universidad Rey Juan Carlos
 * [Aishanee Shah](https://www.linkedin.com/in/aishanee/), Google
+* Gleb Solovev, JetBrains Research
 * [Simon Thompson](https://www.kent.ac.uk/school-of-computing/people/3164/thompson-simon), University of Kent & Eötvös Loránd University
 * [Christoph Treude](https://ctreude.ca/), Singapore Management University
 * [April Wang](https://aprilwang.me/), ETH Zürich
