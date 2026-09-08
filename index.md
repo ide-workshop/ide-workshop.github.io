@@ -149,6 +149,7 @@ The official publication date affects the deadline for any patent filings relate
 * [Noopur Gupta](https://www.linkedin.com/in/noopur2507), Eclipse IDE, IBM
 * [Oshando Johnson](https://www.linkedin.com/in/oshandojohnson/), Fraunhofer IEM
 * [Satish Karlapudi](https://www.linkedin.com/in/satish-kumar-karlapudi/), Oracle
+* [Rainer Koschke](https://www.uni-bremen.de/st/kontakt), University of Bremen
 * [Sarah Nadi](https://sarahnadi.org), New York University Abu Dhabi
 * [Goran Piskachev](https://piskachev.github.io), Amazon Web Services
 * [Gregorio Robles](https://gsyc.urjc.es/~grex/), Universidad Rey Juan Carlos
