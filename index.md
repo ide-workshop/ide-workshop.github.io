@@ -124,7 +124,7 @@ The official publication date affects the deadline for any patent filings relate
 * Papers submission deadline: **November 13th, 2026**
 * Papers acceptance notification: December 11th, 2026
 * Camera ready deadline: January 29th, 2027
-* Workshop: TBA
+* Workshop: May 1st, 2027, Saturday (subject to change)
 
 ## Organizing committee
 
