@@ -159,7 +159,7 @@ The official publication date affects the deadline for any patent filings relate
 * [Gleb Solovev](https://github.com/GlebSolovev), JetBrains Research
 * [Simon Thompson](https://www.kent.ac.uk/school-of-computing/people/3164/thompson-simon), University of Kent & Eötvös Loránd University
 * [Christoph Treude](https://ctreude.ca/), Singapore Management University
-* [Ilya Vlasov] (https://www.linkedin.com/in/girz0n/), JetBrains Research
+* [Ilya Vlasov](https://www.linkedin.com/in/girz0n/), JetBrains Research
 * [April Wang](https://aprilwang.me/), ETH Zürich
 * [Adam Welc](http://www.adamwelc.org/), Mysten Labs
 
