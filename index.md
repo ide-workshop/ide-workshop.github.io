@@ -164,8 +164,6 @@ The official publication date affects the deadline for any patent filings relate
 * [April Wang](https://aprilwang.me/), ETH Zürich
 * [Adam Welc](http://www.adamwelc.org/), Mysten Labs
 
-More coming!
-
 [//]: # (&#40;{% include toc.html %}&#41;)
 
 ------
